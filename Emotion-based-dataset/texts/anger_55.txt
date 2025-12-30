@@ -1,0 +1,1 @@
+Make an animation of a person who is shaking or waving their hands in anger.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN who/PRON is/AUX shaking/VERB or/CCONJ waving/VERB their/PRON hands/NOUN in/ADP anger/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a person who is performing a hand gesture that indicates their anger.#Animate/VERB a/DET person/NOUN who/PRON is/AUX performing/VERB a/DET hand/NOUN gesture/NOUN that/PRON indicates/VERB their/PRON anger/NOUN ./PUNCT#0.0#0.0

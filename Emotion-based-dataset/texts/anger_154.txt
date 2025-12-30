@@ -1,0 +1,1 @@
+Design an animation of a person displaying their anger through a strong hand gesture.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN displaying/VERB their/PRON anger/NOUN through/ADP a/DET strong/ADJ hand/NOUN gesture/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Craft an animation showing a human filled with rage.#Craft/VERB an/DET animation/NOUN showing/VERB a/DET human/NOUN filled/VERB with/ADP rage/NOUN ./PUNCT#0.0#0.0

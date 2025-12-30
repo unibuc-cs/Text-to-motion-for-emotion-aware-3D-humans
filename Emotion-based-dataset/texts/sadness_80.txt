@@ -1,0 +1,1 @@
+Create a character scene of sadness expressed through downward glancing.#Create/VERB a/DET character/NOUN scene/NOUN of/ADP sadness/NOUN expressed/VERB through/ADP downward/ADJ glancing/NOUN ./PUNCT#0.0#0.0

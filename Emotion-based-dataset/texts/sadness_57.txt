@@ -1,0 +1,1 @@
+Show a character lowering their head in sadness and crossing their arms.#Show/VERB a/DET character/NOUN lowering/VERB their/PRON head/NOUN in/ADP sadness/NOUN and/CCONJ crossing/VERB their/PRON arms/NOUN ./PUNCT#0.0#0.0

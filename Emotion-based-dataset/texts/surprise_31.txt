@@ -1,0 +1,1 @@
+Illustrate a character performing a surprised action in response to something unexpected.#Illustrate/VERB a/DET character/NOUN performing/VERB a/DET surprised/ADJ action/NOUN in/ADP response/NOUN to/ADP something/PRON unexpected/ADJ ./PUNCT#0.0#0.0

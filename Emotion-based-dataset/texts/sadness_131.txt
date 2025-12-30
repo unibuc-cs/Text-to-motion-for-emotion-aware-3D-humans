@@ -1,0 +1,1 @@
+Make a human look downward, consumed by grief.#Make/VERB a/DET human/ADJ look/NOUN downward/ADV ,/PUNCT consumed/VERB by/ADP grief/NOUN ./PUNCT#0.0#0.0

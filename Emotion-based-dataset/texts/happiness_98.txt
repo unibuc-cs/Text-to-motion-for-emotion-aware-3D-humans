@@ -1,0 +1,1 @@
+Generate a thumbs-up animation from a happy individual.#Generate/VERB a/DET thumbs/NOUN -/PUNCT up/ADP animation/NOUN from/ADP a/DET happy/ADJ individual/NOUN ./PUNCT#0.0#0.0

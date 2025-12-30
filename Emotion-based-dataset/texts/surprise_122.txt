@@ -1,0 +1,1 @@
+Create a scene where a surprised person reacts with a gasp.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET surprised/ADJ person/NOUN reacts/NOUN with/ADP a/DET gasp/NOUN ./PUNCT#0.0#0.0

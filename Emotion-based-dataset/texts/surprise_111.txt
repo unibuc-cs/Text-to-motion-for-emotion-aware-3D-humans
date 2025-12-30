@@ -1,0 +1,1 @@
+Animate a surprised character who gasps and is taken aback.#Animate/VERB a/DET surprised/ADJ character/NOUN who/PRON gasps/VERB and/CCONJ is/AUX taken/VERB aback/ADV ./PUNCT#0.0#0.0

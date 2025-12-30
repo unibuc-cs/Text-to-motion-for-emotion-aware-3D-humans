@@ -1,0 +1,1 @@
+Make an animation with a person whose hands cover their mouth in fright.#Make/VERB an/DET animation/NOUN with/ADP a/DET person/NOUN whose/DET hands/NOUN cover/VERB their/PRON mouth/NOUN in/ADP fright/PROPN ./PUNCT#0.0#0.0

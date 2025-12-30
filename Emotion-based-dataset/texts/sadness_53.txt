@@ -1,0 +1,1 @@
+Animate a human gazing downward in sorrow.#Animate/VERB a/DET human/ADJ gazing/VERB downward/ADV in/ADP sorrow/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Produce an animation of a person using forceful hand movements to express their anger.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN using/VERB forceful/ADJ hand/NOUN movements/NOUN to/PART express/VERB their/PRON anger/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a person who reacts with a physical gesture indicating surprise.#Animate/VERB a/DET person/NOUN who/PRON reacts/VERB with/ADP a/DET physical/ADJ gesture/NOUN indicating/NOUN surprise/NOUN ./PUNCT#0.0#0.0

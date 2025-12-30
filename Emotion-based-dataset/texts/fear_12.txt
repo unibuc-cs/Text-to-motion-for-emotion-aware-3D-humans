@@ -1,0 +1,1 @@
+Create an animation of a person expressing fear.#Create/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN expressing/VERB fear/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create an animation where a human character is expressing surprise.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET human/ADJ character/NOUN is/AUX expressing/VERB surprise/NOUN ./PUNCT#0.0#0.0

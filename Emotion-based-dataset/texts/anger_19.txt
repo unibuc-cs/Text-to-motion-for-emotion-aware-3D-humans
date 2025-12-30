@@ -1,0 +1,1 @@
+Animate a scene where the human is furious.#Animate/VERB a/DET scene/NOUN where/SCONJ the/DET human/NOUN is/AUX furious/ADJ ./PUNCT#0.0#0.0

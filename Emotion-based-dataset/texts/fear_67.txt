@@ -1,0 +1,1 @@
+Design an animation featuring a person who is scared and trying to protect themselves.#Design/VERB an/DET animation/NOUN featuring/VERB a/DET person/NOUN who/PRON is/AUX scared/ADJ and/CCONJ trying/VERB to/PART protect/VERB themselves/PRON ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a sad person who is about to cry.#Animate/VERB a/DET sad/ADJ person/NOUN who/PRON is/AUX about/ADJ to/PART cry/VERB ./PUNCT#0.0#0.0

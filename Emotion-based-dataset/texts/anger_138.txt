@@ -1,0 +1,1 @@
+Animate a person who is gesturing in a way that clearly shows their frustration.#Animate/VERB a/DET person/NOUN who/PRON is/AUX gesturing/VERB in/ADP a/DET way/NOUN that/PRON clearly/ADV shows/VERB their/PRON frustration/NOUN ./PUNCT#0.0#0.0

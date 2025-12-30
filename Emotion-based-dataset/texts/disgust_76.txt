@@ -1,0 +1,1 @@
+Create a character reacting to a foul odor with visible disgust.#Create/VERB a/DET character/NOUN reacting/VERB to/ADP a/DET foul/ADJ odor/NOUN with/ADP visible/ADJ disgust/NOUN ./PUNCT#0.0#0.0

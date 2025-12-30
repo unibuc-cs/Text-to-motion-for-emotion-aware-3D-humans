@@ -1,0 +1,1 @@
+Show a deeply troubled human.#Show/VERB a/DET deeply/ADV troubled/ADJ human/NOUN ./PUNCT#0.0#0.0

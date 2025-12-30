@@ -1,0 +1,1 @@
+Depict a human showing happiness by throwing their arms in the air.#Depict/VERB a/DET human/ADJ showing/VERB happiness/NOUN by/ADP throwing/VERB their/PRON arms/NOUN in/ADP the/DET air/NOUN ./PUNCT#0.0#0.0

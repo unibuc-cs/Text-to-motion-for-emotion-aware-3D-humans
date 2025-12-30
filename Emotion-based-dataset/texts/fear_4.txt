@@ -1,0 +1,1 @@
+Produce an animation featuring a human in a state of fear.#Produce/VERB an/DET animation/NOUN featuring/VERB a/DET human/NOUN in/ADP a/DET state/NOUN of/ADP fear/NOUN ./PUNCT#0.0#0.0

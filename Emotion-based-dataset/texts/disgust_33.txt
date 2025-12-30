@@ -1,0 +1,1 @@
+Make a character slump forward in clear disgust.#Make/VERB a/DET character/NOUN slump/VERB forward/ADV in/ADP clear/ADJ disgust/NOUN ./PUNCT#0.0#0.0

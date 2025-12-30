@@ -1,0 +1,1 @@
+Render a scene with a person exhibiting surprise.#Render/VERB a/DET scene/NOUN with/ADP a/DET person/NOUN exhibiting/VERB surprise/NOUN ./PUNCT#0.0#0.0

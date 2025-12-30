@@ -1,0 +1,1 @@
+Build a scene where the human wipes their tears away as they cry.#Build/VERB a/DET scene/NOUN where/SCONJ the/DET human/NOUN wipes/VERB their/PRON tears/NOUN away/ADV as/SCONJ they/PRON cry/VERB ./PUNCT#0.0#0.0

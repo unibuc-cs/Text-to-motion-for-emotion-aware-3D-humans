@@ -1,0 +1,1 @@
+Give me an animation where the human is scared.#Give/VERB me/PRON an/DET animation/NOUN where/SCONJ the/DET human/NOUN is/AUX scared/ADJ ./PUNCT#0.0#0.0

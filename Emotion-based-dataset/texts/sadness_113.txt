@@ -1,0 +1,1 @@
+Animate sadness using a person with drooped shoulders and gaze.#Animate/ADJ sadness/NOUN using/VERB a/DET person/NOUN with/ADP drooped/VERB shoulders/NOUN and/CCONJ gaze/NOUN ./PUNCT#0.0#0.0

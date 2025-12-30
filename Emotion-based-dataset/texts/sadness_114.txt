@@ -1,0 +1,1 @@
+Create an animation where a person is taken by grief.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN is/AUX taken/VERB by/ADP grief/NOUN ./PUNCT#0.0#0.0

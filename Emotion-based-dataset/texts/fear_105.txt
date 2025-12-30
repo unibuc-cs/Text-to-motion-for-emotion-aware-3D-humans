@@ -1,0 +1,1 @@
+Make an animation where a scared individual is trying to defend themselves.#Make/VERB an/DET animation/NOUN where/SCONJ a/DET scared/ADJ individual/NOUN is/AUX trying/VERB to/PART defend/VERB themselves/PRON ./PUNCT#0.0#0.0

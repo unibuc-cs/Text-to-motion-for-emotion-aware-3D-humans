@@ -1,0 +1,1 @@
+Design an animated character who gasps in reaction to something surprising.#Design/VERB an/DET animated/VERB character/NOUN who/PRON gasps/VERB in/ADP reaction/NOUN to/ADP something/PRON surprising/ADJ ./PUNCT#0.0#0.0

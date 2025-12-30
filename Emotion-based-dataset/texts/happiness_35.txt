@@ -1,0 +1,1 @@
+Build a character animation where a human signals happiness via thumbs up.#Build/VERB a/DET character/NOUN animation/NOUN where/SCONJ a/DET human/ADJ signals/NOUN happiness/NOUN via/ADP thumbs/NOUN up/ADP ./PUNCT#0.0#0.0

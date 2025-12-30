@@ -1,0 +1,1 @@
+Produce an animation of a person gesturing in a way that shows their irritation.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN gesturing/VERB in/ADP a/DET way/NOUN that/PRON shows/VERB their/PRON irritation/NOUN ./PUNCT#0.0#0.0

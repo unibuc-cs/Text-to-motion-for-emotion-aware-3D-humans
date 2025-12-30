@@ -1,0 +1,1 @@
+Create a happy moment with a human raising their hands.#Create/VERB a/DET happy/ADJ moment/NOUN with/ADP a/DET human/ADJ raising/VERB their/PRON hands/NOUN ./PUNCT#0.0#0.0

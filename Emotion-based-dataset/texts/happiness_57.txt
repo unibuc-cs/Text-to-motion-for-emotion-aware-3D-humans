@@ -1,0 +1,1 @@
+Model a human raising their arms to express happiness.#Model/VERB a/DET human/NOUN raising/VERB their/PRON arms/NOUN to/PART express/VERB happiness/NOUN ./PUNCT#0.0#0.0

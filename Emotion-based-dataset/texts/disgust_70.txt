@@ -1,0 +1,1 @@
+Create a scene where the person looks totally grossed out.#Create/VERB a/DET scene/NOUN where/SCONJ the/DET person/NOUN looks/VERB totally/ADV grossed/VERB out/ADP ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Show an animation where the character is radiant with joy.#Show/VERB an/DET animation/NOUN where/SCONJ the/DET character/NOUN is/AUX radiant/ADJ with/ADP joy/NOUN ./PUNCT#0.0#0.0

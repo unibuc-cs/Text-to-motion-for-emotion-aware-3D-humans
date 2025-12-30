@@ -1,0 +1,1 @@
+Produce an animated scene of someone holding their head in exasperation.#Produce/VERB an/DET animated/VERB scene/NOUN of/ADP someone/PRON holding/VERB their/PRON head/NOUN in/ADP exasperation/NOUN ./PUNCT#0.0#0.0

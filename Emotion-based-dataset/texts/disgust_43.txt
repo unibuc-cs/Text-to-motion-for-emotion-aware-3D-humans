@@ -1,0 +1,1 @@
+Animate a human bending forward in a disgusted state, ready to throw up.#Animate/VERB a/DET human/ADJ bending/NOUN forward/ADV in/ADP a/DET disgusted/ADJ state/NOUN ,/PUNCT ready/ADJ to/PART throw/VERB up/ADP ./PUNCT#0.0#0.0

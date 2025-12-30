@@ -1,0 +1,1 @@
+Make an animation of a person making a pointed gesture in frustration.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB a/DET pointed/ADJ gesture/NOUN in/ADP frustration/NOUN ./PUNCT#0.0#0.0

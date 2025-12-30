@@ -1,0 +1,1 @@
+Render a person celebrating with raised arms.#Render/VERB a/DET person/NOUN celebrating/VERB with/ADP raised/VERB arms/NOUN ./PUNCT#0.0#0.0

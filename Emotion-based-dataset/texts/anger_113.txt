@@ -1,0 +1,1 @@
+Create a scene where a person expresses anger by pointing at someone or something.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN expresses/VERB anger/NOUN by/ADP pointing/VERB at/ADP someone/PRON or/CCONJ something/PRON ./PUNCT#0.0#0.0

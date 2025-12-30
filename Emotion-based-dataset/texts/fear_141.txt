@@ -1,0 +1,1 @@
+Develop an animation that shows a person in terror.#Develop/VERB an/DET animation/NOUN that/PRON shows/VERB a/DET person/NOUN in/ADP terror/NOUN ./PUNCT#0.0#0.0

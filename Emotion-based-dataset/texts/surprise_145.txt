@@ -1,0 +1,1 @@
+Create an animated moment where a character reacts to a shock by gasping and covering their face.#Create/VERB an/DET animated/VERB moment/NOUN where/SCONJ a/DET character/NOUN reacts/VERB to/ADP a/DET shock/NOUN by/ADP gasping/VERB and/CCONJ covering/VERB their/PRON face/NOUN ./PUNCT#0.0#0.0

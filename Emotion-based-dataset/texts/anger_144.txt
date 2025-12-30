@@ -1,0 +1,1 @@
+Design an animation where a person is pointing in anger.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN is/AUX pointing/VERB in/ADP anger/NOUN ./PUNCT#0.0#0.0

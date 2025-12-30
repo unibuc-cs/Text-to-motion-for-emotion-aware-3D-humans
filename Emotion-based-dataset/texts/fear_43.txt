@@ -1,0 +1,1 @@
+Craft an animation where a person is startled and jumps back.#Craft/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN is/AUX startled/VERB and/CCONJ jumps/VERB back/ADV ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Show a character doubling over as they begin to puke.#Show/VERB a/DET character/NOUN doubling/VERB over/ADP as/SCONJ they/PRON begin/VERB to/PART puke/VERB ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create an animated scene with a person reacting to surprise through a gesture.#Create/VERB an/DET animated/VERB scene/NOUN with/ADP a/DET person/NOUN reacting/VERB to/PART surprise/VERB through/ADP a/DET gesture/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Illustrate a scene where a sad person is looking away as they attempt to hide their face.#Illustrate/VERB a/DET scene/NOUN where/SCONJ a/DET sad/ADJ person/NOUN is/AUX looking/VERB away/ADV as/SCONJ they/PRON attempt/VERB to/PART hide/VERB their/PRON face/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Show a happy character extending arms upward, in an upbeat motion.#Show/VERB a/DET happy/ADJ character/NOUN extending/VERB arms/NOUN upward/ADV ,/PUNCT in/ADP an/DET upbeat/ADJ motion/NOUN ./PUNCT#0.0#0.0

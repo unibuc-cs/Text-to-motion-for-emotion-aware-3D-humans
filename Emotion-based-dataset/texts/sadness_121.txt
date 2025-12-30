@@ -1,0 +1,1 @@
+Animate a person lost in sadness, looking down.#Animate/VERB a/DET person/NOUN lost/VERB in/ADP sadness/NOUN ,/PUNCT looking/VERB down/ADV ./PUNCT#0.0#0.0

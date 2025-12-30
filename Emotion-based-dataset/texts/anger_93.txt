@@ -1,0 +1,1 @@
+Design an animated character who gestures angrily by pointing their finger.#Design/VERB an/DET animated/VERB character/NOUN who/PRON gestures/VERB angrily/ADV by/ADP pointing/VERB their/PRON finger/NOUN ./PUNCT#0.0#0.0

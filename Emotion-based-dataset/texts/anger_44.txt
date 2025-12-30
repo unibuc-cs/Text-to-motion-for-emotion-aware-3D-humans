@@ -1,0 +1,1 @@
+Produce an animation of a person making hostile or violent gestures.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB hostile/ADJ or/CCONJ violent/ADJ gestures/NOUN ./PUNCT#0.0#0.0

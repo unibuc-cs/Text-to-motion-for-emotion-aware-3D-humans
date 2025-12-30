@@ -1,0 +1,1 @@
+Create an animation of a person hunched over, about to vomit.#Create/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN hunched/VERB over/ADV ,/PUNCT about/ADJ to/PART vomit/VERB ./PUNCT#0.0#0.0

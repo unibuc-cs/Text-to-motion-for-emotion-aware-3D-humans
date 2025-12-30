@@ -1,0 +1,1 @@
+Make an animation with a person reacting to surprise with a hand or body movement.#Make/VERB an/DET animation/NOUN with/ADP a/DET person/NOUN reacting/VERB to/PART surprise/VERB with/ADP a/DET hand/NOUN or/CCONJ body/NOUN movement/NOUN ./PUNCT#0.0#0.0

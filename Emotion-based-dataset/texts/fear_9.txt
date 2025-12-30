@@ -1,0 +1,1 @@
+Show a human character in an animated sequence displaying fear.#Show/VERB a/DET human/ADJ character/NOUN in/ADP an/DET animated/VERB sequence/NOUN displaying/VERB fear/NOUN ./PUNCT#0.0#0.0

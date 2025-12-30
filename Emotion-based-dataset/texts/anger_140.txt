@@ -1,0 +1,1 @@
+Produce an animation of a person making a sharp gesture to communicate their anger.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB a/DET sharp/ADJ gesture/NOUN to/PART communicate/VERB their/PRON anger/NOUN ./PUNCT#0.0#0.0

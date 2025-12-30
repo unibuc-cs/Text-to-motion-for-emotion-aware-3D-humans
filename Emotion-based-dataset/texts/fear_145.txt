@@ -1,0 +1,1 @@
+Design an animation with a character who is petrified.#Design/VERB an/DET animation/NOUN with/ADP a/DET character/NOUN who/PRON is/AUX petrified/VERB ./PUNCT#0.0#0.0

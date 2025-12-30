@@ -1,0 +1,1 @@
+Model a cheerful jump with arms thrown up.#Model/VERB a/DET cheerful/ADJ jump/NOUN with/ADP arms/NOUN thrown/VERB up/ADP ./PUNCT#0.0#0.0

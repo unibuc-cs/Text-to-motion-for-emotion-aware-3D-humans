@@ -1,0 +1,1 @@
+Show a character silently expressing sadness by looking down.#Show/VERB a/DET character/NOUN silently/ADV expressing/VERB sadness/NOUN by/ADP looking/VERB down/ADV ./PUNCT#0.0#0.0

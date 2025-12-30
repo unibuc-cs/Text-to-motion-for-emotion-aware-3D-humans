@@ -1,0 +1,1 @@
+Produce an animation of a person using body language to make an angry movement.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN using/VERB body/NOUN language/NOUN to/PART make/VERB an/DET angry/ADJ movement/NOUN ./PUNCT#0.0#0.0

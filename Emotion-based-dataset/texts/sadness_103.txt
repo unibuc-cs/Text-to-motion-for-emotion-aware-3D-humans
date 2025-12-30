@@ -1,0 +1,1 @@
+Build a scene with a sorrowful human, crouching down.#Build/VERB a/DET scene/NOUN with/ADP a/DET sorrowful/ADJ human/NOUN ,/PUNCT crouching/VERB down/ADP ./PUNCT#0.0#0.0

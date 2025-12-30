@@ -1,0 +1,1 @@
+Design an animation of a person expressing anger through a hand motion.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN expressing/VERB anger/NOUN through/ADP a/DET hand/NOUN motion/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Show a person responding to a foul odor by pinching their nose.#Show/VERB a/DET person/NOUN responding/VERB to/ADP a/DET foul/ADJ odor/NOUN by/ADP pinching/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

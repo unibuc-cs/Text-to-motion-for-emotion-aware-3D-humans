@@ -1,0 +1,1 @@
+Make an animation of someone reacting happily to a surprise.#Make/VERB an/DET animation/NOUN of/ADP someone/PRON reacting/VERB happily/ADV to/ADP a/DET surprise/NOUN ./PUNCT#0.0#0.0

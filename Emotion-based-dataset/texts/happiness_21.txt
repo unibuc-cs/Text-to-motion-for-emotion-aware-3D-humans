@@ -1,0 +1,1 @@
+Show a person who is happy and satisfied in the animation by doing a thumbs up motion.#Show/VERB a/DET person/NOUN who/PRON is/AUX happy/ADJ and/CCONJ satisfied/ADJ in/ADP the/DET animation/NOUN by/ADP doing/VERB a/DET thumbs/NOUN up/ADP motion/NOUN ./PUNCT#0.0#0.0

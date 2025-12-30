@@ -1,0 +1,1 @@
+Create a character filled with sorrow, avoiding eye contact.#Create/VERB a/DET character/NOUN filled/VERB with/ADP sorrow/NOUN ,/PUNCT avoiding/VERB eye/NOUN contact/NOUN ./PUNCT#0.0#0.0

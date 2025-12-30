@@ -1,0 +1,1 @@
+Give me an animation where the character is in distress, hiding their face from the world as tears fall.#Give/VERB me/PRON an/DET animation/NOUN where/SCONJ the/DET character/NOUN is/AUX in/ADP distress/NOUN ,/PUNCT hiding/VERB their/PRON face/NOUN from/ADP the/DET world/NOUN as/SCONJ tears/NOUN fall/VERB ./PUNCT#0.0#0.0

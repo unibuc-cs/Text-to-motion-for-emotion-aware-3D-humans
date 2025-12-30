@@ -1,0 +1,1 @@
+Develop a scene where a person jumps back in alarm.#Develop/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN jumps/VERB back/ADV in/ADP alarm/NOUN ./PUNCT#0.0#0.0

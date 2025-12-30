@@ -1,0 +1,1 @@
+Make an animation featurinhg a character who leans forward in awe and surprise.#Make/VERB an/DET animation/NOUN featurinhg/VERB a/DET character/NOUN who/PRON leans/VERB forward/ADV in/ADP awe/NOUN and/CCONJ surprise/NOUN ./PUNCT#0.0#0.0

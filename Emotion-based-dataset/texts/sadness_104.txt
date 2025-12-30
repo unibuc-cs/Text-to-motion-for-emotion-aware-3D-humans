@@ -1,0 +1,1 @@
+Give me a scene where the human tries to hide their face, sobbing in pain.#Give/VERB me/PRON a/DET scene/NOUN where/SCONJ the/DET human/ADJ tries/VERB to/PART hide/VERB their/PRON face/NOUN ,/PUNCT sobbing/VERB in/ADP pain/NOUN ./PUNCT#0.0#0.0

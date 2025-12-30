@@ -1,0 +1,1 @@
+Animate a person who demonstrates their anger with a specific hand motion.#Animate/VERB a/DET person/NOUN who/PRON demonstrates/VERB their/PRON anger/NOUN with/ADP a/DET specific/ADJ hand/NOUN motion/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Model a person avoiding a bad smell by holding their nose shut.#Model/VERB a/DET person/NOUN avoiding/VERB a/DET bad/ADJ smell/NOUN by/ADP holding/VERB their/PRON nose/NOUN shut/NOUN ./PUNCT#0.0#0.0

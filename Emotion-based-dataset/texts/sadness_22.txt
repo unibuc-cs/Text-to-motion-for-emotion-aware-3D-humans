@@ -1,0 +1,1 @@
+Create a sad emotional moment for a human.#Create/VERB a/DET sad/ADJ emotional/ADJ moment/NOUN for/ADP a/DET human/NOUN ./PUNCT#0.0#0.0

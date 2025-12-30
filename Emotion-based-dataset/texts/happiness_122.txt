@@ -1,0 +1,1 @@
+Animate someone whose body language shows happiness.#Animate/VERB someone/PRON whose/DET body/NOUN language/NOUN shows/VERB happiness/NOUN ./PUNCT#0.0#0.0

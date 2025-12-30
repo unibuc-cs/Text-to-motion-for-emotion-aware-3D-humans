@@ -1,0 +1,1 @@
+Animate a character who is laughing, full of joy.#Animate/VERB a/DET character/NOUN who/PRON is/AUX laughing/VERB ,/PUNCT full/ADJ of/ADP joy/NOUN ./PUNCT#0.0#0.0

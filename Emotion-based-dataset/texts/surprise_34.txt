@@ -1,0 +1,1 @@
+Animate a surprised character who uses a gesture to show their astonishment.#Animate/VERB a/DET surprised/ADJ character/NOUN who/PRON uses/VERB a/DET gesture/NOUN to/PART show/VERB their/PRON astonishment/NOUN ./PUNCT#0.0#0.0

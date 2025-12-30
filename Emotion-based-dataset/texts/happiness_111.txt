@@ -1,0 +1,1 @@
+Draw a character immersed in positive feelings.#Draw/VERB a/DET character/NOUN immersed/VERB in/ADP positive/ADJ feelings/NOUN ./PUNCT#0.0#0.0

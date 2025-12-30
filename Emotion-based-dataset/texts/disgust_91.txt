@@ -1,0 +1,1 @@
+Render a person reacting with revulsion and shielding their nose.#Render/VERB a/DET person/NOUN reacting/VERB with/ADP revulsion/NOUN and/CCONJ shielding/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

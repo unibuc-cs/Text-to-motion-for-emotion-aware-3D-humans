@@ -1,0 +1,1 @@
+Create an animation with an anxious, frightened character.#Create/VERB an/DET animation/NOUN with/ADP an/DET anxious/ADJ ,/PUNCT frightened/ADJ character/NOUN ./PUNCT#0.0#0.0

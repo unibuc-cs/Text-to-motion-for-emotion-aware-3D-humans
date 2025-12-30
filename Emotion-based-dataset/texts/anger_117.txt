@@ -1,0 +1,1 @@
+Produce an animation where a person expresses their anger through aggressive stomping.#Produce/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN expresses/VERB their/PRON anger/NOUN through/ADP aggressive/ADJ stomping/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Generate a scared character in an animated scene.#Generate/VERB a/DET scared/ADJ character/NOUN in/ADP an/DET animated/VERB scene/NOUN ./PUNCT#0.0#0.0

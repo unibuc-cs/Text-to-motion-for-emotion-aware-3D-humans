@@ -1,0 +1,1 @@
+Make an animation where a character is expressing terror.#Make/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN is/AUX expressing/VERB terror/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Make an animated sequence where someone is surprised and puts their hand on their heart.#Make/VERB an/DET animated/VERB sequence/NOUN where/SCONJ someone/PRON is/AUX surprised/ADJ and/CCONJ puts/VERB their/PRON hand/NOUN on/ADP their/PRON heart/NOUN ./PUNCT#0.0#0.0

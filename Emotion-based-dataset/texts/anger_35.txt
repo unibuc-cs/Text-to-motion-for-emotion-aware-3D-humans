@@ -1,0 +1,1 @@
+Create a scene where a person conveys their frustration through a clear gesture.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN conveys/VERB their/PRON frustration/NOUN through/ADP a/DET clear/ADJ gesture/NOUN ./PUNCT#0.0#0.0

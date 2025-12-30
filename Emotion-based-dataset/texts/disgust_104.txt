@@ -1,0 +1,1 @@
+Craft an animation that shows a human repelled by a sight or smell.#Craft/VERB an/DET animation/NOUN that/PRON shows/VERB a/DET human/NOUN repelled/VERB by/ADP a/DET sight/NOUN or/CCONJ smell/NOUN ./PUNCT#0.0#0.0

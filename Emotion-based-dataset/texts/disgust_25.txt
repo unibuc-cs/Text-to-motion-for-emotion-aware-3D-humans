@@ -1,0 +1,1 @@
+Animate a character reacting in a visibly grossed-out way.#Animate/VERB a/DET character/NOUN reacting/VERB in/ADP a/DET visibly/ADV grossed/VERB -/PUNCT out/ADP way/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Illustrate a surprised character whose response is shown through a noticeable gesture.#Illustrate/VERB a/DET surprised/ADJ character/NOUN whose/DET response/NOUN is/AUX shown/VERB through/ADP a/DET noticeable/ADJ gesture/NOUN ./PUNCT#0.0#0.0

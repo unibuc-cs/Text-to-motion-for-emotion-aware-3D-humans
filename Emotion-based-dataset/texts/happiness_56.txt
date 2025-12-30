@@ -1,0 +1,1 @@
+Develop an animation where a character uses a thumbs up to convey joy.#Develop/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN uses/VERB a/DET thumbs/NOUN up/ADP to/PART convey/VERB joy/NOUN ./PUNCT#0.0#0.0

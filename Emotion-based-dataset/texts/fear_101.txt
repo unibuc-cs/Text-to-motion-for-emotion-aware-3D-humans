@@ -1,0 +1,1 @@
+Design an animated sequence showing a person backing away in terror.#Design/VERB an/DET animated/VERB sequence/NOUN showing/VERB a/DET person/NOUN backing/VERB away/ADP in/ADP terror/NOUN ./PUNCT#0.0#0.0

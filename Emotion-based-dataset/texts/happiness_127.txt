@@ -1,0 +1,1 @@
+Produce a character who signals happiness with a thumb up.#Produce/VERB a/DET character/NOUN who/PRON signals/VERB happiness/NOUN with/ADP a/DET thumb/NOUN up/ADV ./PUNCT#0.0#0.0

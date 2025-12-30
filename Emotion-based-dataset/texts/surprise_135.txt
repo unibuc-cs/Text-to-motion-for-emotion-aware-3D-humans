@@ -1,0 +1,1 @@
+Create an animated sequence where someone shows shock through a body gesture.#Create/VERB an/DET animated/VERB sequence/NOUN where/SCONJ someone/PRON shows/VERB shock/NOUN through/ADP a/DET body/NOUN gesture/NOUN ./PUNCT#0.0#0.0

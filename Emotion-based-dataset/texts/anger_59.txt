@@ -1,0 +1,1 @@
+Create a scene where a person expresses anger by stomping their feet.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN expresses/VERB anger/NOUN by/ADP stomping/VERB their/PRON feet/NOUN ./PUNCT#0.0#0.0

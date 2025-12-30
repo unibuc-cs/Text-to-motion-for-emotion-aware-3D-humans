@@ -1,0 +1,1 @@
+Draw an animation of someone excited and happy.#Draw/VERB an/DET animation/NOUN of/ADP someone/PRON excited/ADJ and/CCONJ happy/ADJ ./PUNCT#0.0#0.0

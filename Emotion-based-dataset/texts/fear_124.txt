@@ -1,0 +1,1 @@
+Design a sequence where a person is startled and leans back.#Design/VERB a/DET sequence/NOUN where/SCONJ a/DET person/NOUN is/AUX startled/ADJ and/CCONJ leans/VERB back/ADV ./PUNCT#0.0#0.0

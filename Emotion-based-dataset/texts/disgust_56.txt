@@ -1,0 +1,1 @@
+Make a character lean backward with a grimace of disgust.#Make/VERB a/DET character/NOUN lean/VERB backward/ADV with/ADP a/DET grimace/NOUN of/ADP disgust/NOUN ./PUNCT#0.0#0.0

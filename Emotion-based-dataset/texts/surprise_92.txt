@@ -1,0 +1,1 @@
+Animate a surprised character who gasps loudly in reaction.#Animate/VERB a/DET surprised/ADJ character/NOUN who/PRON gasps/VERB loudly/ADV in/ADP reaction/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create a human character that appears nauseated.#Create/VERB a/DET human/ADJ character/NOUN that/PRON appears/AUX nauseated/VERB ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Make an animation where a character leans back in fear and surprise.#Make/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN leans/VERB back/ADV in/ADP fear/NOUN and/CCONJ surprise/NOUN ./PUNCT#0.0#0.0

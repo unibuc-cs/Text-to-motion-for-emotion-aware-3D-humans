@@ -1,0 +1,1 @@
+Design a human whose body is recoiling and hunched from disgust.#Design/VERB a/DET human/NOUN whose/DET body/NOUN is/AUX recoiling/VERB and/CCONJ hunched/VERB from/ADP disgust/NOUN ./PUNCT#0.0#0.0

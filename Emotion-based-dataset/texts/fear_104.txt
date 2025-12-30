@@ -1,0 +1,1 @@
+Make an animated sequence where a person leaps backward in fright.#Make/VERB an/DET animated/VERB sequence/NOUN where/SCONJ a/DET person/NOUN leaps/VERB backward/ADV in/ADP fright/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Show a character that is hiding their face in sorrow.#Show/VERB a/DET character/NOUN that/PRON is/AUX hiding/VERB their/PRON face/NOUN in/ADP sorrow/NOUN ./PUNCT#0.0#0.0

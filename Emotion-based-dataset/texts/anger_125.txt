@@ -1,0 +1,1 @@
+Design an animation of a person with their arms crossed, showing clear frustration.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN with/ADP their/PRON arms/NOUN crossed/VERB ,/PUNCT showing/VERB clear/ADJ frustration/NOUN ./PUNCT#0.0#0.0

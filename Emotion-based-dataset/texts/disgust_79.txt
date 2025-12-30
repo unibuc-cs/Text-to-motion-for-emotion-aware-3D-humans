@@ -1,0 +1,1 @@
+Depict a disgusted human shielding their nose from a stench.#Depict/VERB a/DET disgusted/ADJ human/ADJ shielding/NOUN their/PRON nose/NOUN from/ADP a/DET stench/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Design an animation showing a person trying to stifle their fear by covering their mouth.#Design/VERB an/DET animation/NOUN showing/VERB a/DET person/NOUN trying/VERB to/PART stifle/VERB their/PRON fear/NOUN by/ADP covering/VERB their/PRON mouth/NOUN ./PUNCT#0.0#0.0

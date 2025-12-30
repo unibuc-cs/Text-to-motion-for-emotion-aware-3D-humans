@@ -1,0 +1,1 @@
+Make an animation in which the human is feeling disgusted.#Make/VERB an/DET animation/NOUN in/ADP which/PRON the/DET human/NOUN is/AUX feeling/VERB disgusted/ADJ ./PUNCT#0.0#0.0

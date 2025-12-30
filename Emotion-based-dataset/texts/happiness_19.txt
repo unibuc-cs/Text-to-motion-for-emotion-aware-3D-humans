@@ -1,0 +1,1 @@
+Animate a person expressing cheerfulness with raised arms.#Animate/VERB a/DET person/NOUN expressing/VERB cheerfulness/NOUN with/ADP raised/VERB arms/NOUN ./PUNCT#0.0#0.0

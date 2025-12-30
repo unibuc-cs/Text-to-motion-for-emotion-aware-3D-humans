@@ -1,0 +1,1 @@
+Portray a person hunched with an expression of nausea and disgust.#Portray/VERB a/DET person/NOUN hunched/VERB with/ADP an/DET expression/NOUN of/ADP nausea/NOUN and/CCONJ disgust/NOUN ./PUNCT#0.0#0.0

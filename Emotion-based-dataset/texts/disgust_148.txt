@@ -1,0 +1,1 @@
+Present a character who jumps back, clearly in disgust.#Present/VERB a/DET character/NOUN who/PRON jumps/VERB back/ADP ,/PUNCT clearly/ADV in/ADP disgust/NOUN ./PUNCT#0.0#0.0

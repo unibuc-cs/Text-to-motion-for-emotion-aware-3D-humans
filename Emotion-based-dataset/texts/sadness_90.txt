@@ -1,0 +1,1 @@
+Render a sad character that is crying, facing the camera.#Render/VERB a/DET sad/ADJ character/NOUN that/PRON is/AUX crying/VERB ,/PUNCT facing/VERB the/DET camera/NOUN ./PUNCT#0.0#0.0

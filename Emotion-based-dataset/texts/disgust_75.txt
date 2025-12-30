@@ -1,0 +1,1 @@
+Animate a figure leaning over and retching.#Animate/VERB a/DET figure/NOUN leaning/VERB over/ADP and/CCONJ retching/VERB ./PUNCT#0.0#0.0

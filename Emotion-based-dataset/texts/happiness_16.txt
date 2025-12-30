@@ -1,0 +1,1 @@
+Create an animation of a happy human lifting their arms in joy.#Create/VERB an/DET animation/NOUN of/ADP a/DET happy/ADJ human/NOUN lifting/VERB their/PRON arms/NOUN in/ADP joy/NOUN ./PUNCT#0.0#0.0

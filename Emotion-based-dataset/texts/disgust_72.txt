@@ -1,0 +1,1 @@
+Animate a human cringing at something revolting.#Animate/VERB a/DET human/ADJ cringing/NOUN at/ADP something/PRON revolting/VERB ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a moment where someone is repelled or grossed out.#Animate/VERB a/DET moment/NOUN where/SCONJ someone/PRON is/AUX repelled/VERB or/CCONJ grossed/VERB out/ADP ./PUNCT#0.0#0.0

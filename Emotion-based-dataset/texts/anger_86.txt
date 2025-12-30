@@ -1,0 +1,1 @@
+Produce an animation where a person uses an angry gesture to express frustration.#Produce/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN uses/VERB an/DET angry/ADJ gesture/NOUN to/PART express/VERB frustration/NOUN ./PUNCT#0.0#0.0

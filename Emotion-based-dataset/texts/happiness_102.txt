@@ -1,0 +1,1 @@
+Produce a human showing happiness via thumbs-up.#Produce/VERB a/DET human/ADJ showing/VERB happiness/NOUN via/ADP thumbs/NOUN -/PUNCT up/NOUN ./PUNCT#0.0#0.0

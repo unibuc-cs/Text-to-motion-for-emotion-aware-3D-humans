@@ -1,0 +1,1 @@
+Produce a scene with a person showing signs of astonishment.#Produce/VERB a/DET scene/NOUN with/ADP a/DET person/NOUN showing/VERB signs/NOUN of/ADP astonishment/PROPN ./PUNCT#0.0#0.0

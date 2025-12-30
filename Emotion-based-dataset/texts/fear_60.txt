@@ -1,0 +1,1 @@
+Animate a frightened character in a scene.#Animate/VERB a/DET frightened/ADJ character/NOUN in/ADP a/DET scene/NOUN ./PUNCT#0.0#0.0

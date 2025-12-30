@@ -1,0 +1,1 @@
+Animate a character who is using their hands to express anger.#Animate/VERB a/DET character/NOUN who/PRON is/AUX using/VERB their/PRON hands/NOUN to/PART express/VERB anger/NOUN ./PUNCT#0.0#0.0

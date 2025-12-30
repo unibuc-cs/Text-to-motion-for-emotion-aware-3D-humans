@@ -1,0 +1,1 @@
+Illustrate a scene where a surprised character gasps and covers their mouth in awe.#Illustrate/VERB a/DET scene/NOUN where/SCONJ a/DET surprised/ADJ character/NOUN gasps/NOUN and/CCONJ covers/VERB their/PRON mouth/NOUN in/ADP awe/PROPN ./PUNCT#0.0#0.0

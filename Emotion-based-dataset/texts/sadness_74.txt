@@ -1,0 +1,1 @@
+Illustrate a character looking down in emotional distress.#Illustrate/VERB a/DET character/NOUN looking/VERB down/ADP in/ADP emotional/ADJ distress/NOUN ./PUNCT#0.0#0.0

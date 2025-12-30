@@ -1,0 +1,1 @@
+Create an animated scene where a human conveys feelings of being scared.#Create/VERB an/DET animated/VERB scene/NOUN where/SCONJ a/DET human/ADJ conveys/NOUN feelings/NOUN of/ADP being/AUX scared/ADJ ./PUNCT#0.0#0.0

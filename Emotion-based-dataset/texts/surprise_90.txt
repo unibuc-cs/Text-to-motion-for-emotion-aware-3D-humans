@@ -1,0 +1,1 @@
+Illustrate a surprised character who makes a gesture to display their shock.#Illustrate/VERB a/DET surprised/ADJ character/NOUN who/PRON makes/VERB a/DET gesture/NOUN to/PART display/VERB their/PRON shock/NOUN ./PUNCT#0.0#0.0

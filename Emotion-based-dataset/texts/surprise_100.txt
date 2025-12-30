@@ -1,0 +1,1 @@
+Make an animation where a character's surprise is shown through gasping and covering their mouth.#Make/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN 's/PART surprise/NOUN is/AUX shown/VERB through/ADP gasping/VERB and/CCONJ covering/VERB their/PRON mouth/NOUN ./PUNCT#0.0#0.0

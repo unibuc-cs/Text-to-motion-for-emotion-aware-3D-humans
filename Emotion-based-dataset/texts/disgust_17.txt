@@ -1,0 +1,1 @@
+Animate a human recoiling in disgust while hunched.#Animate/VERB a/DET human/ADJ recoiling/NOUN in/ADP disgust/NOUN while/SCONJ hunched/VERB ./PUNCT#0.0#0.0

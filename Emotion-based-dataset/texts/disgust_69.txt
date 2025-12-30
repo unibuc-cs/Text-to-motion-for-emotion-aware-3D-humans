@@ -1,0 +1,1 @@
+Generate a 3D animation of a person bending over in disgust to vomit.#Generate/VERB a/DET 3D/ADJ animation/NOUN of/ADP a/DET person/NOUN bending/VERB over/ADP in/ADP disgust/NOUN to/PART vomit/VERB ./PUNCT#0.0#0.0

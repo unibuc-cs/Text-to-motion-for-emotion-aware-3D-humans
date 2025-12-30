@@ -1,0 +1,1 @@
+Design an animation with a character reacting by making a surprised gesture.#Design/VERB an/DET animation/NOUN with/ADP a/DET character/NOUN reacting/VERB by/ADP making/VERB a/DET surprised/ADJ gesture/NOUN ./PUNCT#0.0#0.0

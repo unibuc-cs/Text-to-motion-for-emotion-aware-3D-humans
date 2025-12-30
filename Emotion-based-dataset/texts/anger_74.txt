@@ -1,0 +1,1 @@
+Create a scene where a person shows anger by crossing their arms.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN shows/VERB anger/NOUN by/ADP crossing/VERB their/PRON arms/NOUN ./PUNCT#0.0#0.0

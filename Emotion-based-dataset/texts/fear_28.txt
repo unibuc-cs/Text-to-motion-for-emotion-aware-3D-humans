@@ -1,0 +1,1 @@
+Produce an animation where a person appears terrified.#Produce/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN appears/VERB terrified/VERB ./PUNCT#0.0#0.0

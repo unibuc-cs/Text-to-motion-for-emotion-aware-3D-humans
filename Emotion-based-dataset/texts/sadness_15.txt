@@ -1,0 +1,1 @@
+Animate a human looking miserable.#Animate/VERB a/DET human/ADJ looking/VERB miserable/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create an animated character displaying frustration by raising their hand.#Create/VERB an/DET animated/VERB character/NOUN displaying/VERB frustration/NOUN by/ADP raising/VERB their/PRON hand/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create a human character who finds something repulsive.#Create/VERB a/DET human/ADJ character/NOUN who/PRON finds/VERB something/PRON repulsive/ADJ ./PUNCT#0.0#0.0

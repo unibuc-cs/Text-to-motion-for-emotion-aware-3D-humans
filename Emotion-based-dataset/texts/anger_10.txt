@@ -1,0 +1,1 @@
+Animate a character expressing frustration by raising their hands.#Animate/VERB a/DET character/NOUN expressing/VERB frustration/NOUN by/ADP raising/VERB their/PRON hands/NOUN ./PUNCT#0.0#0.0

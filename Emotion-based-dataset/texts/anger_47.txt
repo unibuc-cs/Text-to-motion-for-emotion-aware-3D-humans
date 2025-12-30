@@ -1,0 +1,1 @@
+Design an animation of a person performing aggressive hand movements.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN performing/VERB aggressive/ADJ hand/NOUN movements/NOUN ./PUNCT#0.0#0.0

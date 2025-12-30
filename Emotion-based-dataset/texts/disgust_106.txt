@@ -1,0 +1,1 @@
+Show a character with a nose-pinching gesture due to something gross.#Show/VERB a/DET character/NOUN with/ADP a/DET nose/NOUN -/PUNCT pinching/VERB gesture/NOUN due/ADP to/ADP something/PRON gross/ADJ ./PUNCT#0.0#0.0

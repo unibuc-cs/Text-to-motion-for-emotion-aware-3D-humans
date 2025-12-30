@@ -1,0 +1,1 @@
+Give me an animation with an angry person.#Give/VERB me/PRON an/DET animation/NOUN with/ADP an/DET angry/ADJ person/NOUN ./PUNCT#0.0#0.0

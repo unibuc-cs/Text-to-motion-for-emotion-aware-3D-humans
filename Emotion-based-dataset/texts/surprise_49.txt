@@ -1,0 +1,1 @@
+Illustrate a character making a gesture to convey their surprise.#Illustrate/VERB a/DET character/NOUN making/VERB a/DET gesture/NOUN to/PART convey/VERB their/PRON surprise/NOUN ./PUNCT#0.0#0.0

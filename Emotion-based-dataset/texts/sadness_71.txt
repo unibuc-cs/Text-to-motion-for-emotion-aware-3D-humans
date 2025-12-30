@@ -1,0 +1,1 @@
+Show a human with downcast eyes, feeling sorrow.#Show/VERB a/DET human/NOUN with/ADP downcast/ADJ eyes/NOUN ,/PUNCT feeling/VERB sorrow/NOUN ./PUNCT#0.0#0.0

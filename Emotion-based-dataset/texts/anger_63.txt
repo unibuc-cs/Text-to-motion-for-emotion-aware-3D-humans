@@ -1,0 +1,1 @@
+Design an animation of a person raising their fist in a threatening manner.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN raising/VERB their/PRON fist/NOUN in/ADP a/DET threatening/ADJ manner/NOUN ./PUNCT#0.0#0.0

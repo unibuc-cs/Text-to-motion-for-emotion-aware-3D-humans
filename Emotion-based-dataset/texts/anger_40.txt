@@ -1,0 +1,1 @@
+Create an animated character who is making threatening or violent movements.#Create/VERB an/DET animated/VERB character/NOUN who/PRON is/AUX making/VERB threatening/VERB or/CCONJ violent/ADJ movements/NOUN ./PUNCT#0.0#0.0

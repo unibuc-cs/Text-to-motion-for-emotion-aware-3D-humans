@@ -1,0 +1,1 @@
+Create a scene where a human shudders in response to disgust.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET human/ADJ shudders/NOUN in/ADP response/NOUN to/ADP disgust/NOUN ./PUNCT#0.0#0.0

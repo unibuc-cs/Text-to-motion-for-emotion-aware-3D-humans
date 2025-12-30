@@ -1,0 +1,1 @@
+Develop an animation where a human character is reacting with surprise.#Develop/VERB an/DET animation/NOUN where/SCONJ a/DET human/ADJ character/NOUN is/AUX reacting/VERB with/ADP surprise/NOUN ./PUNCT#0.0#0.0

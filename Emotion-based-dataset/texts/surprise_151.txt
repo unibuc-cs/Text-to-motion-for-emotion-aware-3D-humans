@@ -1,0 +1,1 @@
+Make an animated sequence with a person who gasps in surprise.#Make/VERB an/DET animated/VERB sequence/NOUN with/ADP a/DET person/NOUN who/PRON gasps/VERB in/ADP surprise/NOUN ./PUNCT#0.0#0.0

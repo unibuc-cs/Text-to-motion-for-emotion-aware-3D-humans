@@ -1,0 +1,1 @@
+Make a happy character give a thumbs-up in your animation.#Make/VERB a/DET happy/ADJ character/NOUN give/VERB a/DET thumbs/NOUN -/PUNCT up/NOUN in/ADP your/PRON animation/NOUN ./PUNCT#0.0#0.0

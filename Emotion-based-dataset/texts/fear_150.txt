@@ -1,0 +1,1 @@
+Animate a character that expresses visible fear.#Animate/VERB a/DET character/NOUN that/PRON expresses/VERB visible/ADJ fear/NOUN ./PUNCT#0.0#0.0

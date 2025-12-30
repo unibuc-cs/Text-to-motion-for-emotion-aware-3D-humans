@@ -1,0 +1,1 @@
+Animate a scene with a character who is visibly afraid.#Animate/VERB a/DET scene/NOUN with/ADP a/DET character/NOUN who/PRON is/AUX visibly/ADV afraid/ADJ ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a person showing uncontainable joy.#Animate/VERB a/DET person/NOUN showing/VERB uncontainable/ADJ joy/NOUN ./PUNCT#0.0#0.0

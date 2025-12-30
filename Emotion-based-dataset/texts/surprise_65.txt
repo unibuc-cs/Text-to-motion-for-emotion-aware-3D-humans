@@ -1,0 +1,1 @@
+Illustrate a character gasping in astonishment at an unexpected event.#Illustrate/VERB a/DET character/NOUN gasping/VERB in/ADP astonishment/NOUN at/ADP an/DET unexpected/ADJ event/NOUN ./PUNCT#0.0#0.0

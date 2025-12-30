@@ -1,0 +1,1 @@
+Animate a scene where a character shows visceral rejection.#Animate/VERB a/DET scene/NOUN where/SCONJ a/DET character/NOUN shows/VERB visceral/ADJ rejection/NOUN ./PUNCT#0.0#0.0

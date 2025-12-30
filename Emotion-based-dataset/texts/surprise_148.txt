@@ -1,0 +1,1 @@
+Design an animation where someone uses a surprise gesture to communicate their reaction.#Design/VERB an/DET animation/NOUN where/SCONJ someone/PRON uses/VERB a/DET surprise/NOUN gesture/NOUN to/PART communicate/VERB their/PRON reaction/NOUN ./PUNCT#0.0#0.0

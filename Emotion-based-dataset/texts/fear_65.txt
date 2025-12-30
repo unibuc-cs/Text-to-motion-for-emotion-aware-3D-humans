@@ -1,0 +1,1 @@
+Create an animation with a terrified character.#Create/VERB an/DET animation/NOUN with/ADP a/DET terrified/ADJ character/NOUN ./PUNCT#0.0#0.0

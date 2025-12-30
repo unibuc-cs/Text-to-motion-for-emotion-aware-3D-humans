@@ -1,0 +1,1 @@
+Create an animation showing a character gasping in shock at an unexpected moment.#Create/VERB an/DET animation/NOUN showing/VERB a/DET character/NOUN gasping/VERB in/ADP shock/NOUN at/ADP an/DET unexpected/ADJ moment/NOUN ./PUNCT#0.0#0.0

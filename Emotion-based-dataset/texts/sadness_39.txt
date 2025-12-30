@@ -1,0 +1,1 @@
+Animate me a character where The figure is overwhelmed with emotion, hiding their tear-streaked face.#Animate/VERB me/PRON a/DET character/NOUN where/SCONJ The/DET figure/NOUN is/AUX overwhelmed/ADJ with/ADP emotion/NOUN ,/PUNCT hiding/VERB their/PRON tear/NOUN -/PUNCT streaked/VERB face/NOUN ./PUNCT#0.0#0.0

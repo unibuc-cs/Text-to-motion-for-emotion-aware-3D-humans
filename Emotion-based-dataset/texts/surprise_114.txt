@@ -1,0 +1,1 @@
+Illustrate a surprised character who places their hand over their chest.#Illustrate/VERB a/DET surprised/ADJ character/NOUN who/PRON places/VERB their/PRON hand/NOUN over/ADP their/PRON chest/NOUN ./PUNCT#0.0#0.0

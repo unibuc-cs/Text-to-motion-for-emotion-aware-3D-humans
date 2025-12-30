@@ -1,0 +1,1 @@
+Generate an animation illustrating a human character experiencing anger.#Generate/VERB an/DET animation/NOUN illustrating/VERB a/DET human/ADJ character/NOUN experiencing/VERB anger/NOUN ./PUNCT#0.0#0.0

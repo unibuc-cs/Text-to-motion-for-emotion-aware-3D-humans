@@ -1,0 +1,1 @@
+Animate someone who is brimming with happiness and clapping their hands.#Animate/VERB someone/PRON who/PRON is/AUX brimming/VERB with/ADP happiness/NOUN and/CCONJ clapping/VERB their/PRON hands/NOUN ./PUNCT#0.0#0.0

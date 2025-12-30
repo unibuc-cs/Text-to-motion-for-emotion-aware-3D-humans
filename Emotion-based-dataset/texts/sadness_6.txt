@@ -1,0 +1,1 @@
+Show a human character in a gloomy mood.#Show/VERB a/DET human/ADJ character/NOUN in/ADP a/DET gloomy/ADJ mood/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Have a character express joy by giving a thumbs-up sign.#Have/AUX a/DET character/NOUN express/VERB joy/NOUN by/ADP giving/VERB a/DET thumbs/NOUN -/PUNCT up/ADP sign/NOUN ./PUNCT#0.0#0.0

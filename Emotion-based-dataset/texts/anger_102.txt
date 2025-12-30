@@ -1,0 +1,1 @@
+Develop an animated character who gestures in a way that expresses anger.#Develop/VERB an/DET animated/VERB character/NOUN who/PRON gestures/VERB in/ADP a/DET way/NOUN that/PRON expresses/VERB anger/NOUN ./PUNCT#0.0#0.0

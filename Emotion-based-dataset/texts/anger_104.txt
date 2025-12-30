@@ -1,0 +1,1 @@
+Create an animated character using a gesture to demonstrate their anger.#Create/VERB an/DET animated/VERB character/NOUN using/VERB a/DET gesture/NOUN to/PART demonstrate/VERB their/PRON anger/NOUN ./PUNCT#0.0#0.0

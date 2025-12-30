@@ -1,0 +1,1 @@
+Generate an animation of a gloomy person.#Generate/VERB an/DET animation/NOUN of/ADP a/DET gloomy/ADJ person/NOUN ./PUNCT#0.0#0.0

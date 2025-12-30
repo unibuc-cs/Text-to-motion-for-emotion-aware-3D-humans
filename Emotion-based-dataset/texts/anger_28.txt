@@ -1,0 +1,1 @@
+Animate a character whose hands are moving in a display of anger.#Animate/VERB a/DET character/NOUN whose/DET hands/NOUN are/AUX moving/VERB in/ADP a/DET display/NOUN of/ADP anger/NOUN ./PUNCT#0.0#0.0

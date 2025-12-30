@@ -1,0 +1,1 @@
+Animate a person showing irritation by crossing their arms tightly.#Animate/VERB a/DET person/NOUN showing/VERB irritation/NOUN by/ADP crossing/VERB their/PRON arms/NOUN tightly/ADV ./PUNCT#0.0#0.0

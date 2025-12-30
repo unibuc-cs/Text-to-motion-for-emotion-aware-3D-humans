@@ -1,0 +1,1 @@
+Generate a scene where a figure weeps, hands covering their face in agony.#Generate/VERB a/DET scene/NOUN where/SCONJ a/DET figure/NOUN weeps/VERB ,/PUNCT hands/NOUN covering/VERB their/PRON face/NOUN in/ADP agony/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Develop an animated sequence where the person is experiencing anger.#Develop/VERB an/DET animated/VERB sequence/NOUN where/SCONJ the/DET person/NOUN is/AUX experiencing/VERB anger/NOUN ./PUNCT#0.0#0.0

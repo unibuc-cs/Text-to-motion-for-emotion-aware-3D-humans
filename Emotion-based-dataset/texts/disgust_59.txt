@@ -1,0 +1,1 @@
+Animate a character that looks physically sickened.#Animate/VERB a/DET character/NOUN that/PRON looks/VERB physically/ADV sickened/ADJ ./PUNCT#0.0#0.0

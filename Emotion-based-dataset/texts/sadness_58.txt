@@ -1,0 +1,1 @@
+Make a clip of a human expressing sadness by looking down.#Make/VERB a/DET clip/NOUN of/ADP a/DET human/ADJ expressing/VERB sadness/NOUN by/ADP looking/VERB down/ADV ./PUNCT#0.0#0.0

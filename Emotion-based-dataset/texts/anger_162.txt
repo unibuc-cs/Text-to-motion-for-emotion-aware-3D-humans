@@ -1,0 +1,1 @@
+Create an animated character who uses body language to convey their anger.#Create/VERB an/DET animated/VERB character/NOUN who/PRON uses/VERB body/NOUN language/NOUN to/PART convey/VERB their/PRON anger/NOUN ./PUNCT#0.0#0.0

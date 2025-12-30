@@ -1,0 +1,1 @@
+Animate a human in emotional agony.#Animate/VERB a/DET human/NOUN in/ADP emotional/ADJ agony/NOUN ./PUNCT#0.0#0.0

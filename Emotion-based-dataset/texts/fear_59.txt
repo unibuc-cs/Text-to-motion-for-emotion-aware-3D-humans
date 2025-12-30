@@ -1,0 +1,1 @@
+Illustrate an animation where a character quickly jumps away in terror.#Illustrate/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN quickly/ADV jumps/VERB away/ADV in/ADP terror/NOUN ./PUNCT#0.0#0.0

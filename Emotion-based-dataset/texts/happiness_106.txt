@@ -1,0 +1,1 @@
+Animate a joyful thumbs-up given by a character.#Animate/VERB a/DET joyful/ADJ thumbs/NOUN -/PUNCT up/NOUN given/VERB by/ADP a/DET character/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a scene with a character who is throwing their hands up in the air, visibly terrified.#Animate/VERB a/DET scene/NOUN with/ADP a/DET character/NOUN who/PRON is/AUX throwing/VERB their/PRON hands/NOUN up/ADP in/ADP the/DET air/NOUN ,/PUNCT visibly/ADV terrified/ADJ ./PUNCT#0.0#0.0

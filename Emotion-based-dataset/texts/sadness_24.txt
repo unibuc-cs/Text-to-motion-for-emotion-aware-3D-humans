@@ -1,0 +1,1 @@
+Make a human look teary and down.#Make/VERB a/DET human/ADJ look/NOUN teary/ADJ and/CCONJ down/ADV ./PUNCT#0.0#0.0

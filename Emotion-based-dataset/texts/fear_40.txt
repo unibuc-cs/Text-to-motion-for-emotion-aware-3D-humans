@@ -1,0 +1,1 @@
+Animate a person who is visibly anxious and scared.#Animate/VERB a/DET person/NOUN who/PRON is/AUX visibly/ADV anxious/ADJ and/CCONJ scared/ADJ ./PUNCT#0.0#0.0

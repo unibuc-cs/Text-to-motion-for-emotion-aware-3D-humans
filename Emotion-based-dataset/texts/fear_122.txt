@@ -1,0 +1,1 @@
+Produce an animation of a person who jumps back in terror.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN who/PRON jumps/VERB back/ADV in/ADP terror/NOUN ./PUNCT#0.0#0.0

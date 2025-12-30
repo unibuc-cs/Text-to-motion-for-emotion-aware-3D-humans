@@ -1,0 +1,1 @@
+Design an animation of a character placing their hand on their heart out of surprise.#Design/VERB an/DET animation/NOUN of/ADP a/DET character/NOUN placing/VERB their/PRON hand/NOUN on/ADP their/PRON heart/NOUN out/ADP of/ADP surprise/NOUN ./PUNCT#0.0#0.0

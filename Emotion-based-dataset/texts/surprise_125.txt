@@ -1,0 +1,1 @@
+Design a character who gasps in shock and disbelief in an animated moment.#Design/VERB a/DET character/NOUN who/PRON gasps/VERB in/ADP shock/NOUN and/CCONJ disbelief/NOUN in/ADP an/DET animated/VERB moment/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a character who is expressing anger with a powerful gesture.#Animate/VERB a/DET character/NOUN who/PRON is/AUX expressing/VERB anger/NOUN with/ADP a/DET powerful/ADJ gesture/NOUN ./PUNCT#0.0#0.0

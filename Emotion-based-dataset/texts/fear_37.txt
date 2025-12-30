@@ -1,0 +1,1 @@
+Craft an animation with a character displaying fear.#Craft/VERB an/DET animation/NOUN with/ADP a/DET character/NOUN displaying/VERB fear/NOUN ./PUNCT#0.0#0.0

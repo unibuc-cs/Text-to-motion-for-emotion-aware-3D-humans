@@ -1,0 +1,1 @@
+Make an animation where the human is clearly sickened.#Make/VERB an/DET animation/NOUN where/SCONJ the/DET human/NOUN is/AUX clearly/ADV sickened/VERB ./PUNCT#0.0#0.0

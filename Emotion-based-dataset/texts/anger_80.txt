@@ -1,0 +1,1 @@
+Develop an animated scene where a person shows frustration through gestures.#Develop/VERB an/DET animated/VERB scene/NOUN where/SCONJ a/DET person/NOUN shows/VERB frustration/NOUN through/ADP gestures/NOUN ./PUNCT#0.0#0.0

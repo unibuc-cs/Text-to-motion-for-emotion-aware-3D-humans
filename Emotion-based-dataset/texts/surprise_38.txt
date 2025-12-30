@@ -1,0 +1,1 @@
+Create a scene in animation where a character is happily surprised.#Create/VERB a/DET scene/NOUN in/ADP animation/NOUN where/SCONJ a/DET character/NOUN is/AUX happily/ADV surprised/ADJ ./PUNCT#0.0#0.0

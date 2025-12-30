@@ -1,0 +1,1 @@
+Create an animation where a person is feeling sick.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN is/AUX feeling/VERB sick/ADJ ./PUNCT#0.0#0.0

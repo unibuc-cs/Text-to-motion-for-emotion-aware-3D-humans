@@ -1,0 +1,1 @@
+Illustrate an animated sequence where a person defends themselves, clearly frightened.#Illustrate/VERB an/DET animated/VERB sequence/NOUN where/SCONJ a/DET person/NOUN defends/VERB themselves/PRON ,/PUNCT clearly/ADV frightened/VERB ./PUNCT#0.0#0.0

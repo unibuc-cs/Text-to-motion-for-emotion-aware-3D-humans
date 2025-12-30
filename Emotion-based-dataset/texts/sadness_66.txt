@@ -1,0 +1,1 @@
+Animate a person with their head bowed in sadness.#Animate/VERB a/DET person/NOUN with/ADP their/PRON head/NOUN bowed/VERB in/ADP sadness/NOUN ./PUNCT#0.0#0.0

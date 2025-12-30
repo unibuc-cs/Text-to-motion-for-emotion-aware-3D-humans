@@ -1,0 +1,1 @@
+Show a character reacting with revulsion while covering their nose.#Show/VERB a/DET character/NOUN reacting/VERB with/ADP revulsion/NOUN while/SCONJ covering/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Show a person in an animation experiencing a sudden surprise.#Show/VERB a/DET person/NOUN in/ADP an/DET animation/NOUN experiencing/VERB a/DET sudden/ADJ surprise/NOUN ./PUNCT#0.0#0.0

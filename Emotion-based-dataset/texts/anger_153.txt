@@ -1,0 +1,1 @@
+Produce an animation of a person angrily gesturing with their hands or body.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN angrily/ADV gesturing/VERB with/ADP their/PRON hands/NOUN or/CCONJ body/NOUN ./PUNCT#0.0#0.0

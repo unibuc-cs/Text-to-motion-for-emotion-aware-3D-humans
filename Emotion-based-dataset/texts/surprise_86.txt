@@ -1,0 +1,1 @@
+Animate a scene with a surprised person who gasps.#Animate/VERB a/DET scene/NOUN with/ADP a/DET surprised/ADJ person/NOUN who/PRON gasps/VERB ./PUNCT#0.0#0.0

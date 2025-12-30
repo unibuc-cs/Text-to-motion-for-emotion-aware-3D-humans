@@ -1,0 +1,1 @@
+Make an animation where the character is frightened.#Make/VERB an/DET animation/NOUN where/SCONJ the/DET character/NOUN is/AUX frightened/ADJ ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Make a character express defeat through a downward stare.#Make/VERB a/DET character/NOUN express/VERB defeat/NOUN through/ADP a/DET downward/ADJ stare/NOUN ./PUNCT#0.0#0.0

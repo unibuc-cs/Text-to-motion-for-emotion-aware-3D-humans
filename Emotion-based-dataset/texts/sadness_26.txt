@@ -1,0 +1,1 @@
+Make a scene showing emotional sorrow.#Make/VERB a/DET scene/NOUN showing/VERB emotional/ADJ sorrow/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Design an animation where someone reacts with a gesture to an unexpected surprise.#Design/VERB an/DET animation/NOUN where/SCONJ someone/PRON reacts/VERB with/ADP a/DET gesture/NOUN to/ADP an/DET unexpected/ADJ surprise/NOUN ./PUNCT#0.0#0.0

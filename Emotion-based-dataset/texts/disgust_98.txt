@@ -1,0 +1,1 @@
+Animate a character overwhelmed by nausea, bent forward to vomit.#Animate/VERB a/DET character/NOUN overwhelmed/VERB by/ADP nausea/NOUN ,/PUNCT bent/VERB forward/ADV to/PART vomit/VERB ./PUNCT#0.0#0.0

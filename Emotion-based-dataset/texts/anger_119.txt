@@ -1,0 +1,1 @@
+Produce an animation of a person making an intense gesture to convey their anger.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB an/DET intense/ADJ gesture/NOUN to/PART convey/VERB their/PRON anger/NOUN ./PUNCT#0.0#0.0

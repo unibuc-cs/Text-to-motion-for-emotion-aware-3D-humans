@@ -1,0 +1,1 @@
+Depict a human radiating joy in the animation.#Depict/VERB a/DET human/ADJ radiating/NOUN joy/NOUN in/ADP the/DET animation/NOUN ./PUNCT#0.0#0.0

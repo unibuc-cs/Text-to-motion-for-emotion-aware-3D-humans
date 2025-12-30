@@ -1,0 +1,1 @@
+Animate a scene where the human appears to be frightened.#Animate/VERB a/DET scene/NOUN where/SCONJ the/DET human/NOUN appears/VERB to/PART be/AUX frightened/ADJ ./PUNCT#0.0#0.0

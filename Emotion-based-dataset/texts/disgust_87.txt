@@ -1,0 +1,1 @@
+Show a character turning away in disgust while clutching their nose.#Show/VERB a/DET character/NOUN turning/VERB away/ADV in/ADP disgust/NOUN while/SCONJ clutching/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

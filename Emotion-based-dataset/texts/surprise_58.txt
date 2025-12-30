@@ -1,0 +1,1 @@
+Create a scene in animation where someone performs a gesture out of surprise.#Create/VERB a/DET scene/NOUN in/ADP animation/NOUN where/SCONJ someone/PRON performs/VERB a/DET gesture/NOUN out/ADP of/ADP surprise/NOUN ./PUNCT#0.0#0.0

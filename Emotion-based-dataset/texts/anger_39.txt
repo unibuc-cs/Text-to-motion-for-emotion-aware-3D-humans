@@ -1,0 +1,1 @@
+Make an animation of a character gesturing aggressively with violent intent.#Make/VERB an/DET animation/NOUN of/ADP a/DET character/NOUN gesturing/VERB aggressively/ADV with/ADP violent/ADJ intent/NOUN ./PUNCT#0.0#0.0

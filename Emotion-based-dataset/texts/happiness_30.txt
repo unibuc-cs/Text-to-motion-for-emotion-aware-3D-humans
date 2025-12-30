@@ -1,0 +1,1 @@
+Make a happy-looking human animation doing a peace sign.#Make/VERB a/DET happy/ADJ -/PUNCT looking/VERB human/ADJ animation/NOUN doing/VERB a/DET peace/NOUN sign/NOUN ./PUNCT#0.0#0.0

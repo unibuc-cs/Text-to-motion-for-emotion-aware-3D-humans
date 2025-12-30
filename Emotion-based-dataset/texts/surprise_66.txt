@@ -1,0 +1,1 @@
+Design a surprised character who gasps in surprise.#Design/VERB a/DET surprised/ADJ character/NOUN who/PRON gasps/VERB in/ADP surprise/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create a scene where a person raises their hands in exasperation.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN raises/VERB their/PRON hands/NOUN in/ADP exasperation/NOUN ./PUNCT#0.0#0.0

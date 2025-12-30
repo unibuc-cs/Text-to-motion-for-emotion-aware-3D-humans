@@ -1,0 +1,1 @@
+Design an animation of a person standing with their hands on their hips, clearly angry.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN standing/VERB with/ADP their/PRON hands/NOUN on/ADP their/PRON hips/NOUN ,/PUNCT clearly/ADV angry/ADJ ./PUNCT#0.0#0.0

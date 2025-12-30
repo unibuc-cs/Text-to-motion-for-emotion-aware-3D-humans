@@ -1,0 +1,1 @@
+Show a character expressing joy by raising their thumb.#Show/VERB a/DET character/NOUN expressing/VERB joy/NOUN by/ADP raising/VERB their/PRON thumb/NOUN ./PUNCT#0.0#0.0

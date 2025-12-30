@@ -1,0 +1,1 @@
+Animate a slouched human overwhelmed by a sense of disgust and gagging.#Animate/VERB a/DET slouched/VERB human/NOUN overwhelmed/VERB by/ADP a/DET sense/NOUN of/ADP disgust/NOUN and/CCONJ gagging/NOUN ./PUNCT#0.0#0.0

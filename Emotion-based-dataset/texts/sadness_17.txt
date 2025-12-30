@@ -1,0 +1,1 @@
+Illustrate a sorrow-stricken person.#Illustrate/VERB a/DET sorrow/NOUN -/PUNCT stricken/VERB person/NOUN ./PUNCT#0.0#0.0

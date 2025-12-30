@@ -1,0 +1,1 @@
+Show someone experiencing sorrow by staring at the ground.#Show/VERB someone/PRON experiencing/VERB sorrow/NOUN by/ADP staring/VERB at/ADP the/DET ground/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create a moment in animation where someone jumps forwards in surprise. #Create/VERB a/DET moment/NOUN in/ADP animation/NOUN where/SCONJ someone/PRON jumps/VERB forwards/ADV in/ADP surprise/NOUN ./PUNCT#0.0#0.0

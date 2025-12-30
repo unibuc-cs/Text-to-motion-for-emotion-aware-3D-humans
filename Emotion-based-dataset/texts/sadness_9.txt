@@ -1,0 +1,1 @@
+The person cries, covering their eyes in sorrow.#The/DET person/NOUN cries/VERB ,/PUNCT covering/VERB their/PRON eyes/NOUN in/ADP sorrow/NOUN ./PUNCT#0.0#0.0

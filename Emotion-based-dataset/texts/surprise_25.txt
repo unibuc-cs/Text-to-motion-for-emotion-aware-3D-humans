@@ -1,0 +1,1 @@
+Animate a person who places their hand on their chest in astonishment.#Animate/VERB a/DET person/NOUN who/PRON places/VERB their/PRON hand/NOUN on/ADP their/PRON chest/NOUN in/ADP astonishment/PROPN ./PUNCT#0.0#0.0

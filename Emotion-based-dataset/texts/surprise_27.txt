@@ -1,0 +1,1 @@
+Animate a person who is looking at something with surprise.#Animate/VERB a/DET person/NOUN who/PRON is/AUX looking/VERB at/ADP something/PRON with/ADP surprise/NOUN ./PUNCT#0.0#0.0

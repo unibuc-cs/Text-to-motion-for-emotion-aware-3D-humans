@@ -1,0 +1,1 @@
+Create an animation with a frightened person jumping backward.#Create/VERB an/DET animation/NOUN with/ADP a/DET frightened/ADJ person/NOUN jumping/VERB backward/ADV ./PUNCT#0.0#0.0

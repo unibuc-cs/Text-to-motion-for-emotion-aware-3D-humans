@@ -1,0 +1,1 @@
+Create an animated character who uses a gesture to communicate their irritation.#Create/VERB an/DET animated/VERB character/NOUN who/PRON uses/VERB a/DET gesture/NOUN to/PART communicate/VERB their/PRON irritation/NOUN ./PUNCT#0.0#0.0

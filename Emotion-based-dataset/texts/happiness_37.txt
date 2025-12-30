@@ -1,0 +1,1 @@
+Render someone experiencing sheer happiness by doing a little celebratory dance.#Render/VERB someone/PRON experiencing/VERB sheer/ADJ happiness/NOUN by/ADP doing/VERB a/DET little/ADJ celebratory/ADJ dance/NOUN ./PUNCT#0.0#0.0

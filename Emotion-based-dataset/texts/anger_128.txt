@@ -1,0 +1,1 @@
+Animate a character who is shaking their foot in frustration.#Animate/VERB a/DET character/NOUN who/PRON is/AUX shaking/VERB their/PRON foot/NOUN in/ADP frustration/NOUN ./PUNCT#0.0#0.0

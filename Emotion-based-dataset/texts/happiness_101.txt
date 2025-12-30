@@ -1,0 +1,1 @@
+Depict an excited character raising arms high.#Depict/VERB an/DET excited/ADJ character/NOUN raising/VERB arms/NOUN high/ADJ ./PUNCT#0.0#0.0

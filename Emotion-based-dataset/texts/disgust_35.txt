@@ -1,0 +1,1 @@
+Animate a person disgusted by a foul odor and covering their nose.#Animate/VERB a/DET person/NOUN disgusted/VERB by/ADP a/DET foul/ADJ odor/NOUN and/CCONJ covering/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

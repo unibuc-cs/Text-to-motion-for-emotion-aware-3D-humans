@@ -1,0 +1,1 @@
+Generate a person making a disgusted face and covering their nose.#Generate/VERB a/DET person/NOUN making/VERB a/DET disgusted/ADJ face/NOUN and/CCONJ covering/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

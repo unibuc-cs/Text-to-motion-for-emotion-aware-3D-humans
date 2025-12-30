@@ -1,0 +1,1 @@
+Create an animation of a person looking off to the side sadly.#Create/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN looking/VERB off/ADP to/ADP the/DET side/NOUN sadly/ADV ./PUNCT#0.0#0.0

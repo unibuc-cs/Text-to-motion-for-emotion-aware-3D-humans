@@ -1,0 +1,1 @@
+Generate an animation depicting a person in a state of anger.#Generate/VERB an/DET animation/NOUN depicting/VERB a/DET person/NOUN in/ADP a/DET state/NOUN of/ADP anger/NOUN ./PUNCT#0.0#0.0

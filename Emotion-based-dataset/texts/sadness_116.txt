@@ -1,0 +1,1 @@
+Create a scene where a character is sorrowful.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET character/NOUN is/AUX sorrowful/ADJ ./PUNCT#0.0#0.0

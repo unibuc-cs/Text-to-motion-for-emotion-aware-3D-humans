@@ -1,0 +1,1 @@
+Create a scene with a human in a joyful state through a happy, excited dance.#Create/VERB a/DET scene/NOUN with/ADP a/DET human/NOUN in/ADP a/DET joyful/ADJ state/NOUN through/ADP a/DET happy/ADJ ,/PUNCT excited/ADJ dance/NOUN ./PUNCT#0.0#0.0

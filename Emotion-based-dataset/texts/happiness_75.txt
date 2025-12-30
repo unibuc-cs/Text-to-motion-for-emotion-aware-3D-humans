@@ -1,0 +1,1 @@
+Make a joyful person gesture by lifting their arms.#Make/VERB a/DET joyful/ADJ person/NOUN gesture/VERB by/ADP lifting/VERB their/PRON arms/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Illustrate an animation showing a person making forceful, violent gestures.#Illustrate/VERB an/DET animation/NOUN showing/VERB a/DET person/NOUN making/VERB forceful/ADJ ,/PUNCT violent/ADJ gestures/NOUN ./PUNCT#0.0#0.0

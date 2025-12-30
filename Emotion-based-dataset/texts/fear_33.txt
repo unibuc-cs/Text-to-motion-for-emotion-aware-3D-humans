@@ -1,0 +1,1 @@
+Animate a character who covers their mouth in fright.#Animate/VERB a/DET character/NOUN who/PRON covers/VERB their/PRON mouth/NOUN in/ADP fright/PROPN ./PUNCT#0.0#0.0

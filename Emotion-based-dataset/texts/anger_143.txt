@@ -1,0 +1,1 @@
+Design an animation where a person displays their fist in a threatening posture.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN displays/VERB their/PRON fist/NOUN in/ADP a/DET threatening/ADJ posture/NOUN ./PUNCT#0.0#0.0

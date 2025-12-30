@@ -1,0 +1,1 @@
+Produce an animation of a person making a threatening or angry hand gesture.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB a/DET threatening/ADJ or/CCONJ angry/ADJ hand/NOUN gesture/NOUN ./PUNCT#0.0#0.0

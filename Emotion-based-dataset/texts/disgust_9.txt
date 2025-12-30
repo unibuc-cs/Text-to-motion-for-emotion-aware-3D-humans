@@ -1,0 +1,1 @@
+Show a human being disgusted in the animation.#Show/VERB a/DET human/ADJ being/NOUN disgusted/ADJ in/ADP the/DET animation/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a sad person looking at the ground.#Animate/VERB a/DET sad/ADJ person/NOUN looking/VERB at/ADP the/DET ground/NOUN ./PUNCT#0.0#0.0

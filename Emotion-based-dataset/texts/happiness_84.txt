@@ -1,0 +1,1 @@
+Create an animation with a bright and upbeat person.#Create/VERB an/DET animation/NOUN with/ADP a/DET bright/ADJ and/CCONJ upbeat/ADJ person/NOUN ./PUNCT#0.0#0.0

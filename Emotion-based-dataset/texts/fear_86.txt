@@ -1,0 +1,1 @@
+Craft an animation where a frightened character leaps back.#Craft/VERB an/DET animation/NOUN where/SCONJ a/DET frightened/ADJ character/NOUN leaps/VERB back/ADP ./PUNCT#0.0#0.0

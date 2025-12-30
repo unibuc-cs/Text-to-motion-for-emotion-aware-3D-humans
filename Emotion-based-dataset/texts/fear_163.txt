@@ -1,0 +1,1 @@
+Animate a terrified person.#Animate/VERB a/DET terrified/ADJ person/NOUN ./PUNCT#0.0#0.0

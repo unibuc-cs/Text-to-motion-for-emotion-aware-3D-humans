@@ -1,0 +1,1 @@
+Create a scene where a person is using a gesture to show their anger.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN is/AUX using/VERB a/DET gesture/NOUN to/PART show/VERB their/PRON anger/NOUN ./PUNCT#0.0#0.0

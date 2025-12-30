@@ -1,0 +1,1 @@
+Make an animation of a person who displays their anger with a clear gesture.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN who/PRON displays/VERB their/PRON anger/NOUN with/ADP a/DET clear/ADJ gesture/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a character with a disgusted reaction, nose gripped between fingers.#Animate/VERB a/DET character/NOUN with/ADP a/DET disgusted/ADJ reaction/NOUN ,/PUNCT nose/NOUN gripped/VERB between/ADP fingers/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Build a scene of someone celebrating with arms raised.#Build/VERB a/DET scene/NOUN of/ADP someone/PRON celebrating/VERB with/ADP arms/NOUN raised/VERB ./PUNCT#0.0#0.0

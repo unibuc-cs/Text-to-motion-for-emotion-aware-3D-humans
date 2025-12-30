@@ -1,0 +1,1 @@
+Create an animated scene with a person who is leaning forward in surprise.#Create/VERB an/DET animated/VERB scene/NOUN with/ADP a/DET person/NOUN who/PRON is/AUX leaning/VERB forward/ADV in/ADP surprise/NOUN ./PUNCT#0.0#0.0

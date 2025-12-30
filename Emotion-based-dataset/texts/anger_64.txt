@@ -1,0 +1,1 @@
+Design an animation of a person folding their arms in frustration.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN folding/VERB their/PRON arms/NOUN in/ADP frustration/NOUN ./PUNCT#0.0#0.0

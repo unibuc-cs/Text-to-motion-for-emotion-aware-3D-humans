@@ -1,0 +1,1 @@
+Animate a person who is using their hands to make violent gestures.#Animate/VERB a/DET person/NOUN who/PRON is/AUX using/VERB their/PRON hands/NOUN to/PART make/VERB violent/ADJ gestures/NOUN ./PUNCT#0.0#0.0

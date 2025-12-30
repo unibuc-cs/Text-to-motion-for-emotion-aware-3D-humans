@@ -1,0 +1,1 @@
+Show a human radiating emotional warmth and joy.#Show/VERB a/DET human/ADJ radiating/ADJ emotional/ADJ warmth/NOUN and/CCONJ joy/NOUN ./PUNCT#0.0#0.0

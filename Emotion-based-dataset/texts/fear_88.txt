@@ -1,0 +1,1 @@
+Craft an animation where a frightened character leaps back, covering their face.#Craft/VERB an/DET animation/NOUN where/SCONJ a/DET frightened/ADJ character/NOUN leaps/VERB back/ADV ,/PUNCT covering/VERB their/PRON face/NOUN ./PUNCT#0.0#0.0

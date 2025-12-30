@@ -1,0 +1,1 @@
+Develop an animated character who lifts their hands in a frustrated gesture.#Develop/VERB an/DET animated/VERB character/NOUN who/PRON lifts/VERB their/PRON hands/NOUN in/ADP a/DET frustrated/ADJ gesture/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Produce an animation of a person shielding themselves in fear.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN shielding/VERB themselves/PRON in/ADP fear/NOUN ./PUNCT#0.0#0.0

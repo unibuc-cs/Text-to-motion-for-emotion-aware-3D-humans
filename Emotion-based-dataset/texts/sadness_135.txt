@@ -1,0 +1,1 @@
+Create a person that is covering their face in sadness.#Create/VERB a/DET person/NOUN that/PRON is/AUX covering/VERB their/PRON face/NOUN in/ADP sadness/NOUN ./PUNCT#0.0#0.0

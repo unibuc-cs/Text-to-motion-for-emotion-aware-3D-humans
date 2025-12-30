@@ -1,0 +1,1 @@
+Animate a scared person trying to protect themselves.#Animate/VERB a/DET scared/ADJ person/NOUN trying/VERB to/PART protect/VERB themselves/PRON ./PUNCT#0.0#0.0

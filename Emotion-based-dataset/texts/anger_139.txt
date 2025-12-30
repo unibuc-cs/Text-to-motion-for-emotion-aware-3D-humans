@@ -1,0 +1,1 @@
+Create an animated scene with a person using a threatening gesture in anger.#Create/VERB an/DET animated/VERB scene/NOUN with/ADP a/DET person/NOUN using/VERB a/DET threatening/ADJ gesture/NOUN in/ADP anger/NOUN ./PUNCT#0.0#0.0

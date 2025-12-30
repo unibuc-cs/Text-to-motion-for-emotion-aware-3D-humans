@@ -1,0 +1,1 @@
+Design an animation where a person's surprise is conveyed by a physical #Design/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN 's/PART surprise/NOUN is/AUX conveyed/VERB by/ADP a/DET physical/ADJ#0.0#0.0

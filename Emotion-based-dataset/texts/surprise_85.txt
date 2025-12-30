@@ -1,0 +1,1 @@
+Create a character animation where someone gasps in awe and surprise.#Create/VERB a/DET character/NOUN animation/NOUN where/SCONJ someone/PRON gasps/VERB in/ADP awe/NOUN and/CCONJ surprise/NOUN ./PUNCT#0.0#0.0

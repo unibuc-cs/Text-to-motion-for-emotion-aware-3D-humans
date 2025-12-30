@@ -1,0 +1,1 @@
+Create an animation where the person is visibly uplifted by showing an OK sign.#Create/VERB an/DET animation/NOUN where/SCONJ the/DET person/NOUN is/AUX visibly/ADV uplifted/ADJ by/ADP showing/VERB an/DET OK/ADJ sign/NOUN ./PUNCT#0.0#0.0

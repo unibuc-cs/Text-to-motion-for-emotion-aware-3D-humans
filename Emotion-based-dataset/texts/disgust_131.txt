@@ -1,0 +1,1 @@
+Show a character exhibiting signs of being emotionally revolted.#Show/VERB a/DET character/NOUN exhibiting/VERB signs/NOUN of/ADP being/AUX emotionally/ADV revolted/VERB ./PUNCT#0.0#0.0

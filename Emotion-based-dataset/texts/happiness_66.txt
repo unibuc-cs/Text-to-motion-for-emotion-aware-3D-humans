@@ -1,0 +1,1 @@
+Animate a human showing happiness using a thumb-up motion.#Animate/VERB a/DET human/ADJ showing/NOUN happiness/NOUN using/VERB a/DET thumb/NOUN -/PUNCT up/ADP motion/NOUN ./PUNCT#0.0#0.0

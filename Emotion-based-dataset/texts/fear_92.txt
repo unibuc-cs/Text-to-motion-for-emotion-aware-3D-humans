@@ -1,0 +1,1 @@
+Design an animation with a person leaping in response to fear.#Design/VERB an/DET animation/NOUN with/ADP a/DET person/NOUN leaping/VERB in/ADP response/NOUN to/ADP fear/NOUN ./PUNCT#0.0#0.0

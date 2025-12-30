@@ -1,0 +1,1 @@
+Build a scene where a human lowers their eyes in sorrow.#Build/VERB a/DET scene/NOUN where/SCONJ a/DET human/ADJ lowers/NOUN their/PRON eyes/NOUN in/ADP sorrow/NOUN ./PUNCT#0.0#0.0

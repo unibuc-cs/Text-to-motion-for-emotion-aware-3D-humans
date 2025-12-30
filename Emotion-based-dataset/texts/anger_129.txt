@@ -1,0 +1,1 @@
+Design an animation of a person gesturing angrily in frustration.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN gesturing/VERB angrily/ADV in/ADP frustration/NOUN ./PUNCT#0.0#0.0

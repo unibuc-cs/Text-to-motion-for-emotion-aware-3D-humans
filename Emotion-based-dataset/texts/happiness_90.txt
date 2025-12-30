@@ -1,0 +1,1 @@
+Animate a character bubbling with joy by clapping excitedly.#Animate/VERB a/DET character/NOUN bubbling/VERB with/ADP joy/NOUN by/ADP clapping/VERB excitedly/ADV ./PUNCT#0.0#0.0

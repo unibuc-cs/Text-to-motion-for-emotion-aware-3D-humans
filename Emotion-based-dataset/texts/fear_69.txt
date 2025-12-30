@@ -1,0 +1,1 @@
+Create an animated character who is defending themselves in a state of fear.#Create/VERB an/DET animated/VERB character/NOUN who/PRON is/AUX defending/VERB themselves/PRON in/ADP a/DET state/NOUN of/ADP fear/NOUN ./PUNCT#0.0#0.0

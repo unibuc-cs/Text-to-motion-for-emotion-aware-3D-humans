@@ -1,0 +1,1 @@
+Generate a scene with a person throwing their hands up in frustration.#Generate/VERB a/DET scene/NOUN with/ADP a/DET person/NOUN throwing/VERB their/PRON hands/NOUN up/ADP in/ADP frustration/NOUN ./PUNCT#0.0#0.0

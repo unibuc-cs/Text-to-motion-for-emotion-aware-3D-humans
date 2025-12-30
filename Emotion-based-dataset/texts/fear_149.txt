@@ -1,0 +1,1 @@
+Design an animation featuring a person who covers their face in terror.#Design/VERB an/DET animation/NOUN featuring/VERB a/DET person/NOUN who/PRON covers/VERB their/PRON face/NOUN in/ADP terror/NOUN ./PUNCT#0.0#0.0

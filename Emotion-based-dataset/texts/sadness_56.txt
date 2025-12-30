@@ -1,0 +1,1 @@
+Portray a human who has given up.#Portray/VERB a/DET human/NOUN who/PRON has/AUX given/VERB up/ADP ./PUNCT#0.0#0.0

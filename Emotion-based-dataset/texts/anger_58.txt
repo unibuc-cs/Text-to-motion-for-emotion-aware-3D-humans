@@ -1,0 +1,1 @@
+Animate a character who is stomping in frustration or rage.#Animate/VERB a/DET character/NOUN who/PRON is/AUX stomping/VERB in/ADP frustration/NOUN or/CCONJ rage/NOUN ./PUNCT#0.0#0.0

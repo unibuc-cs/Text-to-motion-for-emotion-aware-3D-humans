@@ -1,0 +1,1 @@
+Animate a character who jumps back in alarm.#Animate/VERB a/DET character/NOUN who/PRON jumps/VERB back/ADV in/ADP alarm/NOUN ./PUNCT#0.0#0.0

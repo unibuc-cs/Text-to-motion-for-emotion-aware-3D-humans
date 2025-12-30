@@ -1,0 +1,1 @@
+Design an animation where someone uses a physical movement to express surprise.#Design/VERB an/DET animation/NOUN where/SCONJ someone/PRON uses/VERB a/DET physical/ADJ movement/NOUN to/PART express/VERB surprise/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Design an animation where someone makes a gesture showing their shock.#Design/VERB an/DET animation/NOUN where/SCONJ someone/PRON makes/VERB a/DET gesture/NOUN showing/VERB their/PRON shock/NOUN ./PUNCT#0.0#0.0

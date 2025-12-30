@@ -1,0 +1,1 @@
+Design an animation featuring a person reacting with surprise.#Design/VERB an/DET animation/NOUN featuring/VERB a/DET person/NOUN reacting/VERB with/ADP surprise/NOUN ./PUNCT#0.0#0.0

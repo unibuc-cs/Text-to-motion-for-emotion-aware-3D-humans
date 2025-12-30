@@ -1,0 +1,1 @@
+Create an animation where a surprised person reacts with an expressive hand or body gesture.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET surprised/ADJ person/NOUN reacts/NOUN with/ADP an/DET expressive/ADJ hand/NOUN or/CCONJ body/NOUN gesture/NOUN ./PUNCT#0.0#0.0

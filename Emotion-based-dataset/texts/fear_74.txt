@@ -1,0 +1,1 @@
+Develop an animation where a person is startled and jumps away.#Develop/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN is/AUX startled/VERB and/CCONJ jumps/VERB away/ADV ./PUNCT#0.0#0.0

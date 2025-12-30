@@ -1,0 +1,1 @@
+Make an animation of a person doing a happy thumbs-up gesture.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN doing/VERB a/DET happy/ADJ thumbs/NOUN -/PUNCT up/ADP gesture/NOUN ./PUNCT#0.0#0.0

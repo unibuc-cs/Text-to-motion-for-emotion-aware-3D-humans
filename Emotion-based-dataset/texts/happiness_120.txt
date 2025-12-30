@@ -1,0 +1,1 @@
+Make a scene where the human is in a state of emotional bliss.#Make/VERB a/DET scene/NOUN where/SCONJ the/DET human/NOUN is/AUX in/ADP a/DET state/NOUN of/ADP emotional/ADJ bliss/NOUN ./PUNCT#0.0#0.0

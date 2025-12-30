@@ -1,0 +1,1 @@
+Design a scene where a person's actions are marked by violent g#Design/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN 's/PART actions/NOUN are/AUX marked/VERB by/ADP violent/ADJ g/NOUN#0.0#0.0

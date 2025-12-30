@@ -1,0 +1,1 @@
+Illustrate an animated character who shows surprise by leaning forward and covering their mouth.#Illustrate/VERB an/DET animated/VERB character/NOUN who/PRON shows/VERB surprise/NOUN by/ADP leaning/VERB forward/ADV and/CCONJ covering/VERB their/PRON mouth/NOUN ./PUNCT#0.0#0.0

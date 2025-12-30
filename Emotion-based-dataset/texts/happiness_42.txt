@@ -1,0 +1,1 @@
+Make a scene where the person is visibly joyful.#Make/VERB a/DET scene/NOUN where/SCONJ the/DET person/NOUN is/AUX visibly/ADV joyful/ADJ ./PUNCT#0.0#0.0

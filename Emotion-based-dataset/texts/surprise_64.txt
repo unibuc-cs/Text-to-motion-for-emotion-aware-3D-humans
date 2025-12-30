@@ -1,0 +1,1 @@
+Create an animated moment where a character shows their surprise with a gesture.#Create/VERB an/DET animated/VERB moment/NOUN where/SCONJ a/DET character/NOUN shows/VERB their/PRON surprise/NOUN with/ADP a/DET gesture/NOUN ./PUNCT#0.0#0.0

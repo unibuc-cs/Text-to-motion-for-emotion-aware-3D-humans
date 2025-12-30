@@ -1,0 +1,1 @@
+Animate a character whose expression shows fear.#Animate/VERB a/DET character/NOUN whose/DET expression/NOUN shows/VERB fear/NOUN ./PUNCT#0.0#0.0

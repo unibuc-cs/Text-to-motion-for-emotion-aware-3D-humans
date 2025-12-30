@@ -1,0 +1,1 @@
+Generate an animated sequence where a person is visibly afraid and protecting themselves.#Generate/VERB an/DET animated/VERB sequence/NOUN where/SCONJ a/DET person/NOUN is/AUX visibly/ADV afraid/ADJ and/CCONJ protecting/VERB themselves/PRON ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create an animation of a person expressing anger.#Create/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN expressing/VERB anger/NOUN ./PUNCT#0.0#0.0

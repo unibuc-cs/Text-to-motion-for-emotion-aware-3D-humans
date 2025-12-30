@@ -1,0 +1,1 @@
+Create a fearful person in an animated environment.#Create/VERB a/DET fearful/ADJ person/NOUN in/ADP an/DET animated/VERB environment/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a human character displaying disgust.#Animate/VERB a/DET human/ADJ character/NOUN displaying/VERB disgust/NOUN ./PUNCT#0.0#0.0

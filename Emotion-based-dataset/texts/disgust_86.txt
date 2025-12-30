@@ -1,0 +1,1 @@
+Animate a person scrunching their face and plugging their nose.#Animate/VERB a/DET person/NOUN scrunching/VERB their/PRON face/NOUN and/CCONJ plugging/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

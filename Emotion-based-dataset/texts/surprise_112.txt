@@ -1,0 +1,1 @@
+Make an animation of a person who gasps in amazement at something unexpected.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN who/PRON gasps/VERB in/ADP amazement/NOUN at/ADP something/PRON unexpected/ADJ ./PUNCT#0.0#0.0

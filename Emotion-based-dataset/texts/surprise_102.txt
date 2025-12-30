@@ -1,0 +1,1 @@
+Design an animation where a person reacts with a gasp and covers their mouth in astonishment.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN reacts/VERB with/ADP a/DET gasp/NOUN and/CCONJ covers/VERB their/PRON mouth/NOUN in/ADP astonishment/PROPN ./PUNCT#0.0#0.0

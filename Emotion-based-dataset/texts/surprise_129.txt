@@ -1,0 +1,1 @@
+Illustrate a moment where a character is surprised, gasps, and covers their mouth in reaction.#Illustrate/VERB a/DET moment/NOUN where/SCONJ a/DET character/NOUN is/AUX surprised/ADJ ,/PUNCT gasps/NOUN ,/PUNCT and/CCONJ covers/VERB their/PRON mouth/NOUN in/ADP reaction/NOUN ./PUNCT#0.0#0.0

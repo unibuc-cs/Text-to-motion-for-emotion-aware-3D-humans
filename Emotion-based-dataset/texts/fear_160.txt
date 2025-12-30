@@ -1,0 +1,1 @@
+Create an animation of a person who is putting their hands up, scared.#Create/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN who/PRON is/AUX putting/VERB their/PRON hands/NOUN up/ADP ,/PUNCT scared/ADJ ./PUNCT#0.0#0.0

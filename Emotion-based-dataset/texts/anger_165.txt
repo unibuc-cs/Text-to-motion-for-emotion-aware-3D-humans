@@ -1,0 +1,1 @@
+Design an animation of a person making an angry body gesture to show displeasure.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB an/DET angry/ADJ body/NOUN gesture/VERB to/PART show/VERB displeasure/NOUN ./PUNCT#0.0#0.0

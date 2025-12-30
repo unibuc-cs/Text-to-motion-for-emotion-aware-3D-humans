@@ -1,0 +1,1 @@
+Show a person in an animation reacting with fear.#Show/VERB a/DET person/NOUN in/ADP an/DET animation/NOUN reacting/VERB with/ADP fear/NOUN ./PUNCT#0.0#0.0

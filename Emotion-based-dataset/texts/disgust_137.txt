@@ -1,0 +1,1 @@
+Portray a person jumping back in sheer disgust.#Portray/VERB a/DET person/NOUN jumping/VERB back/ADV in/ADP sheer/ADJ disgust/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Design an animation where a surprised person lets out a gasp.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET surprised/ADJ person/NOUN lets/VERB out/ADP a/DET gasp/NOUN ./PUNCT#0.0#0.0

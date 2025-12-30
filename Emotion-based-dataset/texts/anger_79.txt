@@ -1,0 +1,1 @@
+Animate a character who is expressing frustration through hand movements.#Animate/VERB a/DET character/NOUN who/PRON is/AUX expressing/VERB frustration/NOUN through/ADP hand/NOUN movements/NOUN ./PUNCT#0.0#0.0

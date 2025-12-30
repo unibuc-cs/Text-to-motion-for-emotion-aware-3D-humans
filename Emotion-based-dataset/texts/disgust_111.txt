@@ -1,0 +1,1 @@
+Create a human character that appears to gag upon seeing something disgusting.#Create/VERB a/DET human/ADJ character/NOUN that/PRON appears/VERB to/PART gag/VERB upon/SCONJ seeing/VERB something/PRON disgusting/ADJ ./PUNCT#0.0#0.0

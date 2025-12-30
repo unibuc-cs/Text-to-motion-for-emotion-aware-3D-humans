@@ -1,0 +1,1 @@
+Make an animation of a person making a harsh gesture to express anger.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB a/DET harsh/ADJ gesture/NOUN to/PART express/VERB anger/NOUN ./PUNCT#0.0#0.0

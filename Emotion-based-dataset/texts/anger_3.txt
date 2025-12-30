@@ -1,0 +1,1 @@
+Make an animated character who places their hands on their head in a frustrated gesture.#Make/VERB an/DET animated/VERB character/NOUN who/PRON places/VERB their/PRON hands/NOUN on/ADP their/PRON head/NOUN in/ADP a/DET frustrated/ADJ gesture/NOUN ./PUNCT#0.0#0.0

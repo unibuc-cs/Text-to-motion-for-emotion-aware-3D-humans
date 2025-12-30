@@ -1,0 +1,1 @@
+Illustrate an animated person who is showing fear.#Illustrate/VERB an/DET animated/VERB person/NOUN who/PRON is/AUX showing/VERB fear/NOUN ./PUNCT#0.0#0.0

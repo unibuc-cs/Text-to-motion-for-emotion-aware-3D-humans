@@ -1,0 +1,1 @@
+Design an animation where someone touches their heart in disbelief.#Design/VERB an/DET animation/NOUN where/SCONJ someone/PRON touches/VERB their/PRON heart/NOUN in/ADP disbelief/NOUN ./PUNCT#0.0#0.0

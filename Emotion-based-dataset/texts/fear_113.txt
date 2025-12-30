@@ -1,0 +1,1 @@
+Animate a frightened individual who jumps away in panic.#Animate/VERB a/DET frightened/ADJ individual/NOUN who/PRON jumps/VERB away/ADV in/ADP panic/NOUN ./PUNCT#0.0#0.0

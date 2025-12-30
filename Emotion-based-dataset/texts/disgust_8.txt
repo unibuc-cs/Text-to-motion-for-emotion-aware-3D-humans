@@ -1,0 +1,1 @@
+Depict a character who looks disgusted while blocking their nose.#Depict/VERB a/DET character/NOUN who/PRON looks/VERB disgusted/ADJ while/SCONJ blocking/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

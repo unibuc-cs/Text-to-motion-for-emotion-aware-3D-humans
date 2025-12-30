@@ -1,0 +1,1 @@
+Design an animation of a character reacting with a sharp gasp in surprise.#Design/VERB an/DET animation/NOUN of/ADP a/DET character/NOUN reacting/VERB with/ADP a/DET sharp/ADJ gasp/NOUN in/ADP surprise/NOUN ./PUNCT#0.0#0.0

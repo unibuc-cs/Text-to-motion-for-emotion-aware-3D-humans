@@ -1,0 +1,1 @@
+Give me an animation of a human that is overwhelmed by sadness.#Give/VERB me/PRON an/DET animation/NOUN of/ADP a/DET human/NOUN that/PRON is/AUX overwhelmed/VERB by/ADP sadness/NOUN ./PUNCT#0.0#0.0

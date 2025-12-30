@@ -1,0 +1,1 @@
+Create a scene of a human in grief, head tilted down.#Create/VERB a/DET scene/NOUN of/ADP a/DET human/NOUN in/ADP grief/NOUN ,/PUNCT head/NOUN tilted/VERB down/ADP ./PUNCT#0.0#0.0

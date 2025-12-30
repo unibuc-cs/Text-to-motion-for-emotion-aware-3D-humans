@@ -1,0 +1,1 @@
+Make an animation where a character's surprise is shown through a quick #Make/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN 's/PART surprise/NOUN is/AUX shown/VERB through/ADP a/DET quick/ADJ#0.0#0.0

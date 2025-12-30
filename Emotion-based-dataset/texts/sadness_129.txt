@@ -1,0 +1,1 @@
+Animate someone slouching, staring sadly at the ground.#Animate/VERB someone/PRON slouching/VERB ,/PUNCT staring/VERB sadly/ADV at/ADP the/DET ground/NOUN ./PUNCT#0.0#0.0

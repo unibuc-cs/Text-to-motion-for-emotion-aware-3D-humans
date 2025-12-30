@@ -1,0 +1,1 @@
+Illustrate a character making an expressive gesture to show they are surprised.#Illustrate/VERB a/DET character/NOUN making/VERB an/DET expressive/ADJ gesture/NOUN to/PART show/VERB they/PRON are/AUX surprised/ADJ ./PUNCT#0.0#0.0

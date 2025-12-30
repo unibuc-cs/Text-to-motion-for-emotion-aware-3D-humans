@@ -1,0 +1,1 @@
+Illustrate an animation of a person angrily slamming their foot on the ground.#Illustrate/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN angrily/ADV slamming/VERB their/PRON foot/NOUN on/ADP the/DET ground/NOUN ./PUNCT#0.0#0.0

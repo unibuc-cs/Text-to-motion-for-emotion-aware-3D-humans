@@ -1,0 +1,1 @@
+Create an animation of a character who shows surprise by gasping and covering their lips.#Create/VERB an/DET animation/NOUN of/ADP a/DET character/NOUN who/PRON shows/VERB surprise/NOUN by/ADP gasping/VERB and/CCONJ covering/VERB their/PRON lips/NOUN ./PUNCT#0.0#0.0

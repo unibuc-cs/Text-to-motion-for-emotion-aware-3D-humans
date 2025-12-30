@@ -1,0 +1,1 @@
+Illustrate a scene where the human is grossed out unexpectedly.#Illustrate/VERB a/DET scene/NOUN where/SCONJ the/DET human/NOUN is/AUX grossed/VERB out/ADP unexpectedly/ADV ./PUNCT#0.0#0.0

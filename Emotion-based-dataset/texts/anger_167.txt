@@ -1,0 +1,1 @@
+Make an animation of a person gesturing angrily in response to a situation.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN gesturing/VERB angrily/ADV in/ADP response/NOUN to/ADP a/DET situation/NOUN ./PUNCT#0.0#0.0

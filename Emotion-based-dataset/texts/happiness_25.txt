@@ -1,0 +1,1 @@
+Animate a person expressing joy using a thumbs-up gesture.#Animate/VERB a/DET person/NOUN expressing/VERB joy/NOUN using/VERB a/DET thumbs/NOUN -/PUNCT up/ADP gesture/NOUN ./PUNCT#0.0#0.0

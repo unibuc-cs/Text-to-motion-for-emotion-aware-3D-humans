@@ -1,0 +1,1 @@
+Make an animation with a cheerful person in it.#Make/VERB an/DET animation/NOUN with/ADP a/DET cheerful/ADJ person/NOUN in/ADP it/PRON ./PUNCT#0.0#0.0

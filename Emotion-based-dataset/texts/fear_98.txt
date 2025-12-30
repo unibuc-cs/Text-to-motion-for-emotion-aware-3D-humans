@@ -1,0 +1,1 @@
+Create an animation where a character jumps away in panic.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN jumps/VERB away/ADV in/ADP panic/NOUN ./PUNCT#0.0#0.0

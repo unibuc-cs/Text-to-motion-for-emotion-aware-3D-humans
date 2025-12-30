@@ -1,0 +1,1 @@
+Create a scene where a person expresses their anger through a dramatic gesture.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN expresses/VERB their/PRON anger/NOUN through/ADP a/DET dramatic/ADJ gesture/NOUN ./PUNCT#0.0#0.0

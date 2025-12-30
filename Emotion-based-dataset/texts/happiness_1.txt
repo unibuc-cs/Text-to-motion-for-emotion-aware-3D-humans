@@ -1,0 +1,1 @@
+Show me an animation where the human is cheerful.#Show/VERB me/PRON an/DET animation/NOUN where/SCONJ the/DET human/NOUN is/AUX cheerful/ADJ ./PUNCT#0.0#0.0

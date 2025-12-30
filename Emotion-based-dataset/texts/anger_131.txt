@@ -1,0 +1,1 @@
+Create a scene where a person conveys their anger through a strong gesture.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN conveys/VERB their/PRON anger/NOUN through/ADP a/DET strong/ADJ gesture/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Make a human look downward as they feel dejected, arms crossed behind them.#Make/VERB a/DET human/ADJ look/VERB downward/ADV as/SCONJ they/PRON feel/VERB dejected/ADJ ,/PUNCT arms/NOUN crossed/VERB behind/ADP them/PRON ./PUNCT#0.0#0.0

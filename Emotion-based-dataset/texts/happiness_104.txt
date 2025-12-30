@@ -1,0 +1,1 @@
+Animate a human radiating positive emotion.#Animate/VERB a/DET human/ADJ radiating/NOUN positive/ADJ emotion/NOUN ./PUNCT#0.0#0.0

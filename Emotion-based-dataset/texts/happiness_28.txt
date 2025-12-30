@@ -1,0 +1,1 @@
+Create a human who appears to be in a good mood.#Create/VERB a/DET human/NOUN who/PRON appears/VERB to/PART be/AUX in/ADP a/DET good/ADJ mood/NOUN ./PUNCT#0.0#0.0

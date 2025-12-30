@@ -1,0 +1,1 @@
+Animate a person who shows frustration by lifting their hands above their head.#Animate/VERB a/DET person/NOUN who/PRON shows/VERB frustration/NOUN by/ADP lifting/VERB their/PRON hands/NOUN above/ADP their/PRON head/NOUN ./PUNCT#0.0#0.0

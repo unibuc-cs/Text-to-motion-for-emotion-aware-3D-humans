@@ -1,0 +1,1 @@
+Give me a scene where someone is clearly having a good day.#Give/VERB me/PRON a/DET scene/NOUN where/SCONJ someone/PRON is/AUX clearly/ADV having/VERB a/DET good/ADJ day/NOUN ./PUNCT#0.0#0.0

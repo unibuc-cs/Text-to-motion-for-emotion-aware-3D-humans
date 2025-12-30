@@ -1,0 +1,1 @@
+Design an animation with a surprised person who takes a sharp gasp.#Design/VERB an/DET animation/NOUN with/ADP a/DET surprised/ADJ person/NOUN who/PRON takes/VERB a/DET sharp/ADJ gasp/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create an animated character who crosses their arms in a defensive, angry manner.#Create/VERB an/DET animated/VERB character/NOUN who/PRON crosses/VERB their/PRON arms/NOUN in/ADP a/DET defensive/ADJ ,/PUNCT angry/ADJ manner/NOUN ./PUNCT#0.0#0.0

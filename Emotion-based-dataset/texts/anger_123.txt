@@ -1,0 +1,1 @@
+Design an animation where a person raises their hands to show anger or dismay.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN raises/VERB their/PRON hands/NOUN to/PART show/VERB anger/NOUN or/CCONJ dismay/NOUN ./PUNCT#0.0#0.0

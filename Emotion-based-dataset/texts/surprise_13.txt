@@ -1,0 +1,1 @@
+Animate a scene where the human is showing astonishment.#Animate/VERB a/DET scene/NOUN where/SCONJ the/DET human/NOUN is/AUX showing/VERB astonishment/PROPN ./PUNCT#0.0#0.0

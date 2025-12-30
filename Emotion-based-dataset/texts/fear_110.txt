@@ -1,0 +1,1 @@
+Create an animated sequence where a character appears scared.#Create/VERB an/DET animated/VERB sequence/NOUN where/SCONJ a/DET character/NOUN appears/VERB scared/ADJ ./PUNCT#0.0#0.0

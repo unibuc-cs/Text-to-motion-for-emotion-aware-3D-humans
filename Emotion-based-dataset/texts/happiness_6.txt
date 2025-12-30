@@ -1,0 +1,1 @@
+Show a person who is in high spirits in the animation.#Show/VERB a/DET person/NOUN who/PRON is/AUX in/ADP high/ADJ spirits/NOUN in/ADP the/DET animation/NOUN ./PUNCT#0.0#0.0

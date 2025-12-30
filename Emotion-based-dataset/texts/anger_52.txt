@@ -1,0 +1,1 @@
+Make an animation showing a person pointing aggressively in anger.#Make/VERB an/DET animation/NOUN showing/VERB a/DET person/NOUN pointing/VERB aggressively/ADV in/ADP anger/NOUN ./PUNCT#0.0#0.0

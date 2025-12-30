@@ -1,0 +1,1 @@
+Develop an animated scene with a person crossing their arms in annoyance.#Develop/VERB an/DET animated/VERB scene/NOUN with/ADP a/DET person/NOUN crossing/VERB their/PRON arms/NOUN in/ADP annoyance/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Show a character that is feeling down.#Show/VERB a/DET character/NOUN that/PRON is/AUX feeling/VERB down/ADP ./PUNCT#0.0#0.0

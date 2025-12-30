@@ -1,0 +1,1 @@
+Generate a scared person who is leaning back, raising their arms up in fear.#Generate/VERB a/DET scared/ADJ person/NOUN who/PRON is/AUX leaning/VERB back/ADV ,/PUNCT raising/VERB their/PRON arms/NOUN up/ADP in/ADP fear/NOUN ./PUNCT#0.0#0.0

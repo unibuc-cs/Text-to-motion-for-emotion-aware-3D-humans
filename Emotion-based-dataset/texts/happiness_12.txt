@@ -1,0 +1,1 @@
+Animate a person who looks overjoyed.#Animate/VERB a/DET person/NOUN who/PRON looks/VERB overjoyed/ADJ ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Draw a character drowning in sadness.#Draw/VERB a/DET character/NOUN drowning/VERB in/ADP sadness/NOUN ./PUNCT#0.0#0.0

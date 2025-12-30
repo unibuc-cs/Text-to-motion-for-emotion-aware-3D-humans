@@ -1,0 +1,1 @@
+Generate a human who looks blissful.#Generate/VERB a/DET human/NOUN who/PRON looks/VERB blissful/ADJ ./PUNCT#0.0#0.0

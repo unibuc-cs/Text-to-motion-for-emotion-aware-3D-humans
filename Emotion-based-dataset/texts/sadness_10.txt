@@ -1,0 +1,1 @@
+Make an animation with a depressed human.#Make/VERB an/DET animation/NOUN with/ADP a/DET depressed/ADJ human/NOUN ./PUNCT#0.0#0.0

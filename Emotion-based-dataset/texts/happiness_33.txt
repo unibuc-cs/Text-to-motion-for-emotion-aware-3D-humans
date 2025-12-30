@@ -1,0 +1,1 @@
+Show a person displaying joy with a thumbs up in animation.#Show/VERB a/DET person/NOUN displaying/VERB joy/NOUN with/ADP a/DET thumbs/NOUN up/ADP in/ADP animation/NOUN ./PUNCT#0.0#0.0

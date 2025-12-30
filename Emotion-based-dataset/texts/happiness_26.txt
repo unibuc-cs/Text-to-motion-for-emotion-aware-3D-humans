@@ -1,0 +1,1 @@
+Make a 3D animation where someone gives a thumbs up to show happiness.#Make/VERB a/DET 3D/ADJ animation/NOUN where/SCONJ someone/PRON gives/VERB a/DET thumbs/NOUN up/ADP to/PART show/VERB happiness/NOUN ./PUNCT#0.0#0.0

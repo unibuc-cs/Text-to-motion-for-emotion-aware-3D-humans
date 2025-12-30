@@ -1,0 +1,1 @@
+Animate a character who is displaying a clenched fist in an intimidating way.#Animate/VERB a/DET character/NOUN who/PRON is/AUX displaying/VERB a/DET clenched/VERB fist/NOUN in/ADP an/DET intimidating/ADJ way/NOUN ./PUNCT#0.0#0.0

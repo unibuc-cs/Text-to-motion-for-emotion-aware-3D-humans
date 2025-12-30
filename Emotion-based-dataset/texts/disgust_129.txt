@@ -1,0 +1,1 @@
+Create a visual of a person in a disgusted emotional state.#Create/VERB a/DET visual/NOUN of/ADP a/DET person/NOUN in/ADP a/DET disgusted/ADJ emotional/ADJ state/NOUN ./PUNCT#0.0#0.0

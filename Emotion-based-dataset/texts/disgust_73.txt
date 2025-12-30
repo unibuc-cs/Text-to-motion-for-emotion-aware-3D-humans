@@ -1,0 +1,1 @@
+Build a shot showing a strong feeling of repulsion.#Build/VERB a/DET shot/NOUN showing/VERB a/DET strong/ADJ feeling/NOUN of/ADP repulsion/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a character who is showing their anger through a sharp gesture.#Animate/VERB a/DET character/NOUN who/PRON is/AUX showing/VERB their/PRON anger/NOUN through/ADP a/DET sharp/ADJ gesture/NOUN ./PUNCT#0.0#0.0

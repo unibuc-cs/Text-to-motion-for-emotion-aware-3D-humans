@@ -1,0 +1,1 @@
+Animate a human stuck in sadness.#Animate/VERB a/DET human/ADJ stuck/NOUN in/ADP sadness/NOUN ./PUNCT#0.0#0.0

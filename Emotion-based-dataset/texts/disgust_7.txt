@@ -1,0 +1,1 @@
+Illustrate a human covering their nostrils in response to a bad smell.#Illustrate/VERB a/DET human/NOUN covering/VERB their/PRON nostrils/NOUN in/ADP response/NOUN to/ADP a/DET bad/ADJ smell/NOUN ./PUNCT#0.0#0.0

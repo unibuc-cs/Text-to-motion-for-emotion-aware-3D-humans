@@ -1,0 +1,1 @@
+Produce an animation of a person leaning over to be sick.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN leaning/VERB over/ADP to/PART be/AUX sick/ADJ ./PUNCT#0.0#0.0

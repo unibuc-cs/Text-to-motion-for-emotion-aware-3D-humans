@@ -1,0 +1,1 @@
+Make an animation of a person displaying anger with a strong gesture.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN displaying/VERB anger/NOUN with/ADP a/DET strong/ADJ gesture/NOUN ./PUNCT#0.0#0.0

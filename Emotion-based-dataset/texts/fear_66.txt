@@ -1,0 +1,1 @@
+Produce a scene with an animated person expressing fear.#Produce/VERB a/DET scene/NOUN with/ADP an/DET animated/VERB person/NOUN expressing/VERB fear/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Show a person gagging while bending forward.#Show/VERB a/DET person/NOUN gagging/VERB while/SCONJ bending/VERB forward/ADV ./PUNCT#0.0#0.0

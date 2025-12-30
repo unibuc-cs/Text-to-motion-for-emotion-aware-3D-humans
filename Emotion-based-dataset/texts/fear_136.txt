@@ -1,0 +1,1 @@
+Illustrate an animation where a person quickly covers their face out of fear.#Illustrate/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN quickly/ADV covers/VERB their/PRON face/NOUN out/ADP of/ADP fear/NOUN ./PUNCT#0.0#0.0

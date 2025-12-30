@@ -1,0 +1,1 @@
+Portray a person that is raising their hands upon seeing something disgusting.#Portray/VERB a/DET person/NOUN that/PRON is/AUX raising/VERB their/PRON hands/NOUN upon/SCONJ seeing/VERB something/PRON disgusting/ADJ ./PUNCT#0.0#0.0

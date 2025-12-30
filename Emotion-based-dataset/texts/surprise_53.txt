@@ -1,0 +1,1 @@
+Animate a surprised character who reacts with a gasp.#Animate/VERB a/DET surprised/ADJ character/NOUN who/PRON reacts/VERB with/ADP a/DET gasp/NOUN ./PUNCT#0.0#0.0

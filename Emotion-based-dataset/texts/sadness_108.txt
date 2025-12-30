@@ -1,0 +1,1 @@
+I want a person expressing sadness.#I/PRON want/VERB a/DET person/NOUN expressing/VERB sadness/NOUN ./PUNCT#0.0#0.0

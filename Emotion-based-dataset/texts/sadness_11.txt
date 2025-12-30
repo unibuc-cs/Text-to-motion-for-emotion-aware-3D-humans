@@ -1,0 +1,1 @@
+Animate a character, tears streaming, buries their face in their hands.#Animate/VERB a/DET character/NOUN ,/PUNCT tears/NOUN streaming/NOUN ,/PUNCT buries/VERB their/PRON face/NOUN in/ADP their/PRON hands/NOUN ./PUNCT#0.0#0.0

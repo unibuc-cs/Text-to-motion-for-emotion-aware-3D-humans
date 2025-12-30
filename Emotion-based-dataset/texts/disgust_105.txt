@@ -1,0 +1,1 @@
+Show a character who bends and vomits violently.#Show/VERB a/DET character/NOUN who/PRON bends/VERB and/CCONJ vomits/VERB violently/ADV ./PUNCT#0.0#0.0

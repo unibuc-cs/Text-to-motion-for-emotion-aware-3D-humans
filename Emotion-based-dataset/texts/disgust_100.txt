@@ -1,0 +1,1 @@
+Show a 3D human hunched over with sickness, throwing up.#Show/VERB a/DET 3D/ADJ human/NOUN hunched/VERB over/ADV with/ADP sickness/NOUN ,/PUNCT throwing/VERB up/ADP ./PUNCT#0.0#0.0

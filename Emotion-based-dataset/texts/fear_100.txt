@@ -1,0 +1,1 @@
+Animate a scene where someone recoils in fear.#Animate/VERB a/DET scene/NOUN where/SCONJ someone/PRON recoils/VERB in/ADP fear/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Make an animation where a person conceals their face in response to terror.#Make/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN conceals/VERB their/PRON face/NOUN in/ADP response/NOUN to/ADP terror/NOUN ./PUNCT#0.0#0.0

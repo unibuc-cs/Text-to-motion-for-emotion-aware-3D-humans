@@ -1,0 +1,1 @@
+Depict a human lowering their gaze in emotional pain.#Depict/VERB a/DET human/NOUN lowering/VERB their/PRON gaze/NOUN in/ADP emotional/ADJ pain/NOUN ./PUNCT#0.0#0.0

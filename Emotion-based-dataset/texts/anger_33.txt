@@ -1,0 +1,1 @@
+Develop an animated scene where a person uses a dramatic gesture to show their rage.#Develop/VERB an/DET animated/VERB scene/NOUN where/SCONJ a/DET person/NOUN uses/VERB a/DET dramatic/ADJ gesture/NOUN to/PART show/VERB their/PRON rage/NOUN ./PUNCT#0.0#0.0

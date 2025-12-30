@@ -1,0 +1,1 @@
+Show a human reacting negatively to a stench by holding their nose.#Show/VERB a/DET human/NOUN reacting/VERB negatively/ADV to/ADP a/DET stench/NOUN by/ADP holding/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

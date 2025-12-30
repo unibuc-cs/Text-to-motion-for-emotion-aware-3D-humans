@@ -1,0 +1,1 @@
+Depict a person reacting with clear aversion.#Depict/VERB a/DET person/NOUN reacting/VERB with/ADP clear/ADJ aversion/NOUN ./PUNCT#0.0#0.0

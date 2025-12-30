@@ -1,0 +1,1 @@
+Create an animation of a figure puking in a hunched stance.#Create/VERB an/DET animation/NOUN of/ADP a/DET figure/NOUN puking/VERB in/ADP a/DET hunched/VERB stance/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a character who gasps and places their hand over their mouth in disbelief.#Animate/VERB a/DET character/NOUN who/PRON gasps/VERB and/CCONJ places/VERB their/PRON hand/NOUN over/ADP their/PRON mouth/NOUN in/ADP disbelief/NOUN ./PUNCT#0.0#0.0

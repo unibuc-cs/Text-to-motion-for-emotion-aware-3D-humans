@@ -1,0 +1,1 @@
+Create an animated character who gestures aggressively to express anger.#Create/VERB an/DET animated/VERB character/NOUN who/PRON gestures/VERB aggressively/ADV to/PART express/VERB anger/NOUN ./PUNCT#0.0#0.0

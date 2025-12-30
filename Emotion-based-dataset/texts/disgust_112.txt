@@ -1,0 +1,1 @@
+Model someone plugging their nostrils in reaction to a bad odor.#Model/VERB someone/PRON plugging/VERB their/PRON nostrils/NOUN in/ADP reaction/NOUN to/ADP a/DET bad/ADJ odor/NOUN ./PUNCT#0.0#0.0

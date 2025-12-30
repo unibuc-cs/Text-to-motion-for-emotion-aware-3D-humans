@@ -1,0 +1,1 @@
+Illustrate a human’s happiness through a thumbs-up gestur#Illustrate/VERB a/DET human/NOUN ’s/PART happiness/NOUN through/ADP a/DET thumbs/NOUN -/PUNCT up/ADP gestur/NOUN#0.0#0.0

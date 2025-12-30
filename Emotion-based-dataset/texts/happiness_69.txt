@@ -1,0 +1,1 @@
+Render a character that happily gives a thumbs up.#Render/VERB a/DET character/NOUN that/PRON happily/ADV gives/VERB a/DET thumbs/NOUN up/ADP ./PUNCT#0.0#0.0

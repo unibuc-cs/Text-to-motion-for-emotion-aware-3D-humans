@@ -1,0 +1,1 @@
+Make an animation of a person using forceful gestures to show their frustration.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN using/VERB forceful/ADJ gestures/NOUN to/PART show/VERB their/PRON frustration/NOUN ./PUNCT#0.0#0.0

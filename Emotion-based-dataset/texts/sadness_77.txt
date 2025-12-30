@@ -1,0 +1,1 @@
+Give me an animation where the character is struck by grief.#Give/VERB me/PRON an/DET animation/NOUN where/SCONJ the/DET character/NOUN is/AUX struck/VERB by/ADP grief/NOUN ./PUNCT#0.0#0.0

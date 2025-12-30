@@ -1,0 +1,1 @@
+Show a human expressing a strong feeling of disgust.#Show/VERB a/DET human/NOUN expressing/VERB a/DET strong/ADJ feeling/NOUN of/ADP disgust/NOUN ./PUNCT#0.0#0.0

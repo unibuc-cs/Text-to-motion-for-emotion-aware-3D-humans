@@ -1,0 +1,1 @@
+Design an animation where a person gasps in wonder at something surprising.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN gasps/VERB in/ADP wonder/NOUN at/ADP something/PRON surprising/ADJ ./PUNCT#0.0#0.0

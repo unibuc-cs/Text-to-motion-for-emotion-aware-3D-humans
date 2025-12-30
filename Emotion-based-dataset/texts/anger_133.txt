@@ -1,0 +1,1 @@
+Illustrate an animation of a person making a hand movement to show their rage.#Illustrate/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB a/DET hand/NOUN movement/NOUN to/PART show/VERB their/PRON rage/NOUN ./PUNCT#0.0#0.0

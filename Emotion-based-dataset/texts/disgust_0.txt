@@ -1,0 +1,1 @@
+Create an animation showing a disgusted human.#Create/VERB an/DET animation/NOUN showing/VERB a/DET disgusted/ADJ human/NOUN ./PUNCT#0.0#0.0

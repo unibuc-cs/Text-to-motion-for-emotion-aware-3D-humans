@@ -1,0 +1,1 @@
+Design an animation that depicts an angry human.#Design/VERB an/DET animation/NOUN that/PRON depicts/VERB an/DET angry/ADJ human/NOUN ./PUNCT#0.0#0.0

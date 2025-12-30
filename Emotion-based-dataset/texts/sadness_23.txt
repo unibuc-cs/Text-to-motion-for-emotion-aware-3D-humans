@@ -1,0 +1,1 @@
+Draw a human overwhelmed with sadness.#Draw/VERB a/DET human/ADJ overwhelmed/ADJ with/ADP sadness/NOUN ./PUNCT#0.0#0.0

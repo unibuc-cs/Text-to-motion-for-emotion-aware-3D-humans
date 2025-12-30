@@ -1,0 +1,1 @@
+Depict a scene where a figure sobs quietly, their face hidden behind their hand.#Depict/VERB a/DET scene/NOUN where/SCONJ a/DET figure/NOUN sobs/NOUN quietly/ADV ,/PUNCT their/PRON face/NOUN hidden/VERB behind/ADP their/PRON hand/NOUN ./PUNCT#0.0#0.0

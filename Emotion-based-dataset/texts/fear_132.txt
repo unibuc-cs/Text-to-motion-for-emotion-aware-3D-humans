@@ -1,0 +1,1 @@
+Design an animation where a scared person is taking action to protect themselves.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET scared/ADJ person/NOUN is/AUX taking/VERB action/NOUN to/PART protect/VERB themselves/PRON ./PUNCT#0.0#0.0

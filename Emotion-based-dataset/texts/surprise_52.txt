@@ -1,0 +1,1 @@
+Produce an animated shot of a person gasping in shock.#Produce/VERB an/DET animated/VERB shot/NOUN of/ADP a/DET person/NOUN gasping/VERB in/ADP shock/NOUN ./PUNCT#0.0#0.0

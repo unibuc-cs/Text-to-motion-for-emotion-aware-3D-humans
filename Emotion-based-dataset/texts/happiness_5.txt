@@ -1,0 +1,1 @@
+Animate a human who is feeling joyous.#Animate/VERB a/DET human/NOUN who/PRON is/AUX feeling/VERB joyous/ADJ ./PUNCT#0.0#0.0

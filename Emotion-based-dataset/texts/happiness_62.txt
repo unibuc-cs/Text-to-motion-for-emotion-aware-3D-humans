@@ -1,0 +1,1 @@
+Animate a human full of positive energy.#Animate/VERB a/DET human/ADJ full/ADJ of/ADP positive/ADJ energy/NOUN ./PUNCT#0.0#0.0

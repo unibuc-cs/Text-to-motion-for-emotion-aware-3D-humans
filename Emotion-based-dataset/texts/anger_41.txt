@@ -1,0 +1,1 @@
+Illustrate an animation with a person angrily gesturing by pointing.#Illustrate/VERB an/DET animation/NOUN with/ADP a/DET person/NOUN angrily/ADV gesturing/VERB by/ADP pointing/VERB ./PUNCT#0.0#0.0

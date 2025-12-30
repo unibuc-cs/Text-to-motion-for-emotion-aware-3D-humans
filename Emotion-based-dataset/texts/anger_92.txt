@@ -1,0 +1,1 @@
+Illustrate an animation of a person shaking their fist in a hostile manner.#Illustrate/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN shaking/VERB their/PRON fist/NOUN in/ADP a/DET hostile/ADJ manner/NOUN ./PUNCT#0.0#0.0

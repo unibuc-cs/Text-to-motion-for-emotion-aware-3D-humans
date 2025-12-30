@@ -1,0 +1,1 @@
+Illustrate a surprised reaction where a person makes an expressive gesture.#Illustrate/VERB a/DET surprised/ADJ reaction/NOUN where/SCONJ a/DET person/NOUN makes/VERB an/DET expressive/ADJ gesture/NOUN ./PUNCT#0.0#0.0

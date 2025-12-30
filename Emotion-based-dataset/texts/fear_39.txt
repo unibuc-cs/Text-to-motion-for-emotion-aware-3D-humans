@@ -1,0 +1,1 @@
+Develop an animated sequence featuring a fearful person.#Develop/VERB an/DET animated/VERB sequence/NOUN featuring/VERB a/DET fearful/ADJ person/NOUN ./PUNCT#0.0#0.0

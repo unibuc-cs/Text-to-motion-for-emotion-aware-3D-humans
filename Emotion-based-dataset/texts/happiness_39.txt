@@ -1,0 +1,1 @@
+Give me a clip where the human is over the moon.#Give/VERB me/PRON a/DET clip/NOUN where/SCONJ the/DET human/NOUN is/AUX over/ADP the/DET moon/NOUN ./PUNCT#0.0#0.0

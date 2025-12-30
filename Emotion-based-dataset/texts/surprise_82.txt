@@ -1,0 +1,1 @@
+Create an animation where a character shows their surprise with a specific hand or body gesture.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN shows/VERB their/PRON surprise/NOUN with/ADP a/DET specific/ADJ hand/NOUN or/CCONJ body/NOUN gesture/NOUN ./PUNCT#0.0#0.0

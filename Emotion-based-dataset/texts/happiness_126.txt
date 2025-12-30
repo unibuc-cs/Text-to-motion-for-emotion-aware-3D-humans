@@ -1,0 +1,1 @@
+Craft an animation where the character shows joy by making a peace sign gesture.#Craft/VERB an/DET animation/NOUN where/SCONJ the/DET character/NOUN shows/VERB joy/NOUN by/ADP making/VERB a/DET peace/NOUN sign/NOUN gesture/NOUN ./PUNCT#0.0#0.0

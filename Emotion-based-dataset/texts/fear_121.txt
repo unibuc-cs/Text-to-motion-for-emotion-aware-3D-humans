@@ -1,0 +1,1 @@
+Animate a frightened person who is trying to protect themselves from danger.#Animate/VERB a/DET frightened/ADJ person/NOUN who/PRON is/AUX trying/VERB to/PART protect/VERB themselves/PRON from/ADP danger/NOUN ./PUNCT#0.0#0.0

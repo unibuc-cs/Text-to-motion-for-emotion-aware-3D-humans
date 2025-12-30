@@ -1,0 +1,1 @@
+Create an animation where the figure shrinks back in disgust.#Create/VERB an/DET animation/NOUN where/SCONJ the/DET figure/NOUN shrinks/VERB back/ADV in/ADP disgust/NOUN ./PUNCT#0.0#0.0

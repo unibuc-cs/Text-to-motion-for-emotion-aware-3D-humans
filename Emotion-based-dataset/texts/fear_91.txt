@@ -1,0 +1,1 @@
+Generate an animation of a person jumping back in dread.#Generate/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN jumping/VERB back/ADV in/ADP dread/NOUN ./PUNCT#0.0#0.0

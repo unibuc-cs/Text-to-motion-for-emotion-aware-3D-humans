@@ -1,0 +1,1 @@
+Illustrate an animation of a person performing a gesture that reflects their anger.#Illustrate/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN performing/VERB a/DET gesture/NOUN that/PRON reflects/VERB their/PRON anger/NOUN ./PUNCT#0.0#0.0

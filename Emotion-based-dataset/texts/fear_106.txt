@@ -1,0 +1,1 @@
+Develop a frightened character in an animation.#Develop/VERB a/DET frightened/ADJ character/NOUN in/ADP an/DET animation/NOUN ./PUNCT#0.0#0.0

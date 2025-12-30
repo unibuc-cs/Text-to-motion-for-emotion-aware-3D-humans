@@ -1,0 +1,1 @@
+Animate a human expressing nausea and plugging their nose.#Animate/VERB a/DET human/ADJ expressing/VERB nausea/NOUN and/CCONJ plugging/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Design a character who covers their mouth in surprise.#Design/VERB a/DET character/NOUN who/PRON covers/VERB their/PRON mouth/NOUN in/ADP surprise/NOUN ./PUNCT#0.0#0.0

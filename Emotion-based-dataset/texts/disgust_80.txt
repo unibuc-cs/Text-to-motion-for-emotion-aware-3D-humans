@@ -1,0 +1,1 @@
+Depict a person reacting with total physical repulsion.#Depict/VERB a/DET person/NOUN reacting/VERB with/ADP total/ADJ physical/ADJ repulsion/NOUN ./PUNCT#0.0#0.0

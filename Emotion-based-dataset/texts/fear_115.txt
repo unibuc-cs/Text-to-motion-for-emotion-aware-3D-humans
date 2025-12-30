@@ -1,0 +1,1 @@
+Create an animation where a person is guarding themselves, obviously terrified.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN is/AUX guarding/VERB themselves/PRON ,/PUNCT obviously/ADV terrified/VERB ./PUNCT#0.0#0.0

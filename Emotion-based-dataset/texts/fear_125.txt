@@ -1,0 +1,1 @@
+Craft an animation with a person who hides their face due to fear.#Craft/VERB an/DET animation/NOUN with/ADP a/DET person/NOUN who/PRON hides/VERB their/PRON face/NOUN due/ADP to/ADP fear/NOUN ./PUNCT#0.0#0.0

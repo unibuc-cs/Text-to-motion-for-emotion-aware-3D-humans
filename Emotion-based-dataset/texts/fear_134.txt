@@ -1,0 +1,1 @@
+Craft an animation showing a person in fear while protecting themselves.#Craft/VERB an/DET animation/NOUN showing/VERB a/DET person/NOUN in/ADP fear/NOUN while/SCONJ protecting/VERB themselves/PRON ./PUNCT#0.0#0.0

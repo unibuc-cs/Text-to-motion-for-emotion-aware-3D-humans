@@ -1,0 +1,1 @@
+Design an animated scene with a person who is terrified.#Design/VERB an/DET animated/VERB scene/NOUN with/ADP a/DET person/NOUN who/PRON is/AUX terrified/VERB ./PUNCT#0.0#0.0

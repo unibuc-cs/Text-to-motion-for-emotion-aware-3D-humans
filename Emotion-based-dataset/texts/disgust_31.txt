@@ -1,0 +1,1 @@
+Create an animation of a person reacting to a bad smell with disgust.#Create/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN reacting/VERB to/ADP a/DET bad/ADJ smell/NOUN with/ADP disgust/NOUN ./PUNCT#0.0#0.0

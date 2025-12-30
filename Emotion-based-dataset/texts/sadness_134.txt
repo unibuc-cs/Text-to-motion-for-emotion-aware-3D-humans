@@ -1,0 +1,1 @@
+Create a person pausing in sadness, looking toward the floor.#Create/VERB a/DET person/NOUN pausing/VERB in/ADP sadness/NOUN ,/PUNCT looking/VERB toward/ADP the/DET floor/NOUN ./PUNCT#0.0#0.0

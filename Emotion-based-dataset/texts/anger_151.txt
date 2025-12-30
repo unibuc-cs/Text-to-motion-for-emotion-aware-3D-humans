@@ -1,0 +1,1 @@
+Create an animated character who is gesturing with intense anger.#Create/VERB an/DET animated/VERB character/NOUN who/PRON is/AUX gesturing/VERB with/ADP intense/ADJ anger/NOUN ./PUNCT#0.0#0.0

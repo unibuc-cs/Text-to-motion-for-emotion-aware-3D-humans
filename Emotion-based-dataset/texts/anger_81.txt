@@ -1,0 +1,1 @@
+Illustrate an animation featuring a person gesturing angrily in frustration.#Illustrate/VERB an/DET animation/NOUN featuring/VERB a/DET person/NOUN gesturing/VERB angrily/ADV in/ADP frustration/NOUN ./PUNCT#0.0#0.0

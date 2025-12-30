@@ -1,0 +1,1 @@
+Create an animation where a character reacts by covering their mouth in fear.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN reacts/NOUN by/ADP covering/VERB their/PRON mouth/NOUN in/ADP fear/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Depict a character experiencing genuine joy.#Depict/VERB a/DET character/NOUN experiencing/VERB genuine/ADJ joy/NOUN ./PUNCT#0.0#0.0

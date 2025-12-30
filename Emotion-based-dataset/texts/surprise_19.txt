@@ -1,0 +1,1 @@
+Craft an animation showing a human reacting suddenly with surprise.#Craft/VERB an/DET animation/NOUN showing/VERB a/DET human/ADJ reacting/NOUN suddenly/ADV with/ADP surprise/NOUN ./PUNCT#0.0#0.0

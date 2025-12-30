@@ -1,0 +1,1 @@
+Illustrate a character who makes a startled gesture to show their surprise.#Illustrate/VERB a/DET character/NOUN who/PRON makes/VERB a/DET startled/ADJ gesture/NOUN to/PART show/VERB their/PRON surprise/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create an animated scene where a person conveys feelings of surprise.#Create/VERB an/DET animated/VERB scene/NOUN where/SCONJ a/DET person/NOUN conveys/VERB feelings/NOUN of/ADP surprise/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Design an animation with a character who looks alarmed and scared.#Design/VERB an/DET animation/NOUN with/ADP a/DET character/NOUN who/PRON looks/VERB alarmed/ADJ and/CCONJ scared/ADJ ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Produce an animation showing a person protecting themselves while being visibly scared.#Produce/VERB an/DET animation/NOUN showing/VERB a/DET person/NOUN protecting/VERB themselves/PRON while/SCONJ being/AUX visibly/ADV scared/ADJ ./PUNCT#0.0#0.0

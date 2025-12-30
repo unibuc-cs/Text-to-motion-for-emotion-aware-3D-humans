@@ -1,0 +1,1 @@
+Create a person who blocks their nose to avoid an offensive stench.#Create/VERB a/DET person/NOUN who/PRON blocks/VERB their/PRON nose/NOUN to/PART avoid/VERB an/DET offensive/ADJ stench/NOUN ./PUNCT#0.0#0.0

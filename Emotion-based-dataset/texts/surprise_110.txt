@@ -1,0 +1,1 @@
+Illustrate an animation with a character gasping in astonishment.#Illustrate/VERB an/DET animation/NOUN with/ADP a/DET character/NOUN gasping/VERB in/ADP astonishment/PROPN ./PUNCT#0.0#0.0

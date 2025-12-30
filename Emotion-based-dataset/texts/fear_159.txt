@@ -1,0 +1,1 @@
+Animate a scene with a character whose hands cover their face as they lean back in fright.#Animate/VERB a/DET scene/NOUN with/ADP a/DET character/NOUN whose/DET hands/NOUN cover/VERB their/PRON face/NOUN as/SCONJ they/PRON lean/VERB back/ADV in/ADP fright/PROPN ./PUNCT#0.0#0.0

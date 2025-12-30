@@ -1,0 +1,1 @@
+Show an animation of someone reacting to a stink by holding their nose.#Show/VERB an/DET animation/NOUN of/ADP someone/PRON reacting/VERB to/ADP a/DET stink/NOUN by/ADP holding/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Create an animated character whose hands move in an angry gesture.#Create/VERB an/DET animated/VERB character/NOUN whose/DET hands/NOUN move/VERB in/ADP an/DET angry/ADJ gesture/NOUN ./PUNCT#0.0#0.0

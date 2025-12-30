@@ -1,0 +1,1 @@
+Animate a person who gasps in astonishment.#Animate/VERB a/DET person/NOUN who/PRON gasps/VERB in/ADP astonishment/PROPN ./PUNCT#0.0#0.0

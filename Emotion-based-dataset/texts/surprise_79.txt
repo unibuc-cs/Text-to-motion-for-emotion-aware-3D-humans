@@ -1,0 +1,1 @@
+Design an animated character who performs a gesture of astonishment.#Design/VERB an/DET animated/VERB character/NOUN who/PRON performs/VERB a/DET gesture/NOUN of/ADP astonishment/PROPN ./PUNCT#0.0#0.0

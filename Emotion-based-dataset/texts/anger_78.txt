@@ -1,0 +1,1 @@
+Create a scene where a person gestures out of frustration.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN gestures/VERB out/ADP of/ADP frustration/NOUN ./PUNCT#0.0#0.0

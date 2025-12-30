@@ -1,0 +1,1 @@
+Create a happy vibe around the human character by having them clap their hands.#Create/VERB a/DET happy/ADJ vibe/NOUN around/ADP the/DET human/ADJ character/NOUN by/ADP having/VERB them/PRON clap/VERB their/PRON hands/NOUN ./PUNCT#0.0#0.0

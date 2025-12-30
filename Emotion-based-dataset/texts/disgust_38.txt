@@ -1,0 +1,1 @@
+Make a human character plug their nose in a disgusted manner.#Make/VERB a/DET human/ADJ character/NOUN plug/VERB their/PRON nose/NOUN in/ADP a/DET disgusted/ADJ manner/NOUN ./PUNCT#0.0#0.0

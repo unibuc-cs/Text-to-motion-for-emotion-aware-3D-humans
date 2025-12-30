@@ -1,0 +1,1 @@
+Craft a character animation where fear is shown clearly.#Craft/VERB a/DET character/NOUN animation/NOUN where/SCONJ fear/NOUN is/AUX shown/VERB clearly/ADV ./PUNCT#0.0#0.0

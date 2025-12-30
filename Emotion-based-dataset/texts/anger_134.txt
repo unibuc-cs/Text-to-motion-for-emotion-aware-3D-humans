@@ -1,0 +1,1 @@
+Make an animation of a person expressing their anger by placing their hands on their hips.#Make/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN expressing/VERB their/PRON anger/NOUN by/ADP placing/VERB their/PRON hands/NOUN on/ADP their/PRON hips/NOUN ./PUNCT#0.0#0.0

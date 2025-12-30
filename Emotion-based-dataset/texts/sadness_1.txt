@@ -1,0 +1,1 @@
+Create an animation of a human who is sorrowful.#Create/VERB an/DET animation/NOUN of/ADP a/DET human/NOUN who/PRON is/AUX sorrowful/ADJ ./PUNCT#0.0#0.0

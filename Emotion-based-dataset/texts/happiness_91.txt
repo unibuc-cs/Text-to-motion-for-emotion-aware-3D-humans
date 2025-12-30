@@ -1,0 +1,1 @@
+Draw a human full of vibrant, positive energy.#Draw/VERB a/DET human/ADJ full/ADJ of/ADP vibrant/ADJ ,/PUNCT positive/ADJ energy/NOUN ./PUNCT#0.0#0.0

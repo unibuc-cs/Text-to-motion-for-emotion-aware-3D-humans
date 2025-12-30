@@ -1,0 +1,1 @@
+Design an animation of a person using an angry hand motion.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN using/VERB an/DET angry/ADJ hand/NOUN motion/NOUN ./PUNCT#0.0#0.0

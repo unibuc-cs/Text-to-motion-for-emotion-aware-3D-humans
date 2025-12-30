@@ -1,0 +1,1 @@
+Show a human reacting negatively with disgust and dread.#Show/VERB a/DET human/NOUN reacting/VERB negatively/ADV with/ADP disgust/NOUN and/CCONJ dread/NOUN ./PUNCT#0.0#0.0

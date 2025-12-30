@@ -1,0 +1,1 @@
+Show a character turning away with a disgusted body language.#Show/VERB a/DET character/NOUN turning/VERB away/ADV with/ADP a/DET disgusted/ADJ body/NOUN language/NOUN ./PUNCT#0.0#0.0

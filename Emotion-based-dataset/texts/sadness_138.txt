@@ -1,0 +1,1 @@
+Illustrate a moment where a character is overly sad.#Illustrate/VERB a/DET moment/NOUN where/SCONJ a/DET character/NOUN is/AUX overly/ADV sad/ADJ ./PUNCT#0.0#0.0

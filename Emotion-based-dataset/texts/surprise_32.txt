@@ -1,0 +1,1 @@
+Illustrate an animation featuring a person expressing delight at an unexpected event.#Illustrate/VERB an/DET animation/NOUN featuring/VERB a/DET person/NOUN expressing/VERB delight/NOUN at/ADP an/DET unexpected/ADJ event/NOUN ./PUNCT#0.0#0.0

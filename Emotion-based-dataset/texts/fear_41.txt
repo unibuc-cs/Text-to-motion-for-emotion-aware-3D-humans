@@ -1,0 +1,1 @@
+Create a character animation that shows someone in fear.#Create/VERB a/DET character/NOUN animation/NOUN that/PRON shows/VERB someone/PRON in/ADP fear/NOUN ./PUNCT#0.0#0.0

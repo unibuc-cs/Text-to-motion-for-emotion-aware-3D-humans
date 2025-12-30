@@ -1,0 +1,1 @@
+Create a disgusted posture with the character leaning backward.#Create/VERB a/DET disgusted/ADJ posture/NOUN with/ADP the/DET character/NOUN leaning/VERB backward/ADV ./PUNCT#0.0#0.0

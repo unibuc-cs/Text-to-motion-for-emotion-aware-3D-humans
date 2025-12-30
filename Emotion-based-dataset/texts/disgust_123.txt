@@ -1,0 +1,1 @@
+Show a person clearly disgusted by a smell and covering their nose.#Show/VERB a/DET person/NOUN clearly/ADV disgusted/VERB by/ADP a/DET smell/NOUN and/CCONJ covering/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Draw a person whose face lights up with happiness.#Draw/VERB a/DET person/NOUN whose/DET face/NOUN lights/VERB up/ADP with/ADP happiness/NOUN ./PUNCT#0.0#0.0

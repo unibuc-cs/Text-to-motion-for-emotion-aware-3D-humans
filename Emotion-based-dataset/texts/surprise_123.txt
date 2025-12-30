@@ -1,0 +1,1 @@
+Animate a character who gasps and shows shock in an animated scene.#Animate/VERB a/DET character/NOUN who/PRON gasps/VERB and/CCONJ shows/VERB shock/NOUN in/ADP an/DET animated/VERB scene/NOUN ./PUNCT#0.0#0.0

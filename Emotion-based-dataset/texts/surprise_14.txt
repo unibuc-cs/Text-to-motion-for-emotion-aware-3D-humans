@@ -1,0 +1,1 @@
+Design an animation that depicts a surprised human.#Design/VERB an/DET animation/NOUN that/PRON depicts/VERB a/DET surprised/ADJ human/NOUN ./PUNCT#0.0#0.0

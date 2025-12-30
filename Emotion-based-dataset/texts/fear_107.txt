@@ -1,0 +1,1 @@
+Design an animation showing a person in a state of fear.#Design/VERB an/DET animation/NOUN showing/VERB a/DET person/NOUN in/ADP a/DET state/NOUN of/ADP fear/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Render a human character who is gazing at the ground in despair.#Render/VERB a/DET human/ADJ character/NOUN who/PRON is/AUX gazing/VERB at/ADP the/DET ground/NOUN in/ADP despair/NOUN ./PUNCT#0.0#0.0

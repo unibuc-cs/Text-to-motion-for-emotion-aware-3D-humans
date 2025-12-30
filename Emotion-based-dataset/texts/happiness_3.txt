@@ -1,0 +1,1 @@
+Animate a scene with a human feeling glad.#Animate/VERB a/DET scene/NOUN with/ADP a/DET human/ADJ feeling/NOUN glad/ADJ ./PUNCT#0.0#0.0

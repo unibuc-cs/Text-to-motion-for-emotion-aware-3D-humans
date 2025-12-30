@@ -1,0 +1,1 @@
+Show a person in an animation who is visibly enraged.#Show/VERB a/DET person/NOUN in/ADP an/DET animation/NOUN who/PRON is/AUX visibly/ADV enraged/ADJ ./PUNCT#0.0#0.0

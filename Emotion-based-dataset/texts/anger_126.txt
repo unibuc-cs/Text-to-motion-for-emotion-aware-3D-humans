@@ -1,0 +1,1 @@
+Design an animation where a person uses an angry gesture to express themselves.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN uses/VERB an/DET angry/ADJ gesture/NOUN to/PART express/VERB themselves/PRON ./PUNCT#0.0#0.0

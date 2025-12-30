@@ -1,0 +1,1 @@
+Design an animation of a person angrily stomping their feet.#Design/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN angrily/ADV stomping/VERB their/PRON feet/NOUN ./PUNCT#0.0#0.0

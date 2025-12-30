@@ -1,0 +1,1 @@
+Illustrate a human who is hunched forward and puking.#Illustrate/VERB a/DET human/NOUN who/PRON is/AUX hunched/VERB forward/ADV and/CCONJ puking/ADJ ./PUNCT#0.0#0.0

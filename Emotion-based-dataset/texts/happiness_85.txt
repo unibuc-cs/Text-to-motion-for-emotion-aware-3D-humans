@@ -1,0 +1,1 @@
+Depict a person feeling overjoyed, jumping on the spot in happiness.#Depict/VERB a/DET person/NOUN feeling/VERB overjoyed/ADJ ,/PUNCT jumping/VERB on/ADP the/DET spot/NOUN in/ADP happiness/NOUN ./PUNCT#0.0#0.0

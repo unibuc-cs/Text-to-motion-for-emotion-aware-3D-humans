@@ -1,0 +1,1 @@
+Depict happiness through a thumbs up from a person.#Depict/VERB happiness/NOUN through/ADP a/DET thumbs/NOUN up/ADP from/ADP a/DET person/NOUN ./PUNCT#0.0#0.0

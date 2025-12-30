@@ -1,0 +1,1 @@
+Depict a grief-stricken person.#Depict/VERB a/DET grief/NOUN -/PUNCT stricken/VERB person/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a person who expresses surprise with a noticeable gesture.#Animate/VERB a/DET person/NOUN who/PRON expresses/VERB surprise/NOUN with/ADP a/DET noticeable/ADJ gesture/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Produce an animation of a person raising their hands in a fit of rage.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN raising/VERB their/PRON hands/NOUN in/ADP a/DET fit/NOUN of/ADP rage/NOUN ./PUNCT#0.0#0.0

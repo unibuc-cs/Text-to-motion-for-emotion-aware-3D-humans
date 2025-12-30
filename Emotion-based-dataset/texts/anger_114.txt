@@ -1,0 +1,1 @@
+Develop an animated scene with a person demonstrating anger through their gestures.#Develop/VERB an/DET animated/VERB scene/NOUN with/ADP a/DET person/NOUN demonstrating/VERB anger/NOUN through/ADP their/PRON gestures/NOUN ./PUNCT#0.0#0.0

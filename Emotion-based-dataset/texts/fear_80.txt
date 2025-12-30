@@ -1,0 +1,1 @@
+Animate a character who quickly covers their mouth in terror.#Animate/VERB a/DET character/NOUN who/PRON quickly/ADV covers/VERB their/PRON mouth/NOUN in/ADP terror/NOUN ./PUNCT#0.0#0.0

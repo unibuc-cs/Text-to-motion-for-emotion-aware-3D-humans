@@ -1,0 +1,1 @@
+Animate a character who is making a gesture to show their frustration.#Animate/VERB a/DET character/NOUN who/PRON is/AUX making/VERB a/DET gesture/NOUN to/PART show/VERB their/PRON frustration/NOUN ./PUNCT#0.0#0.0

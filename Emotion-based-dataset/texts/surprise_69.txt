@@ -1,0 +1,1 @@
+Animate a surprised character who responds with a sudden physical gesture.#Animate/VERB a/DET surprised/ADJ character/NOUN who/PRON responds/VERB with/ADP a/DET sudden/ADJ physical/ADJ gesture/NOUN ./PUNCT#0.0#0.0

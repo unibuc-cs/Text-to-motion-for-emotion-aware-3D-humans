@@ -1,0 +1,1 @@
+Let the character display their happiness using a thumb up.#Let/VERB the/DET character/NOUN display/VERB their/PRON happiness/NOUN using/VERB a/DET thumb/NOUN up/ADV ./PUNCT#0.0#0.0

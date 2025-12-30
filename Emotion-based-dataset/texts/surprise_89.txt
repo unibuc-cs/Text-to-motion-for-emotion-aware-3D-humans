@@ -1,0 +1,1 @@
+Make an animated scene where someone reacts to a surprise through a body movement.#Make/VERB an/DET animated/VERB scene/NOUN where/SCONJ someone/PRON reacts/VERB to/ADP a/DET surprise/NOUN through/ADP a/DET body/NOUN movement/NOUN ./PUNCT#0.0#0.0

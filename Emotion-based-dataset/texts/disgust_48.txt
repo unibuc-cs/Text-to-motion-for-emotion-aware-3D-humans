@@ -1,0 +1,1 @@
+Create a character pinching their nose due to a disgusting smell.#Create/VERB a/DET character/NOUN pinching/VERB their/PRON nose/NOUN due/ADP to/ADP a/DET disgusting/ADJ smell/NOUN ./PUNCT#0.0#0.0

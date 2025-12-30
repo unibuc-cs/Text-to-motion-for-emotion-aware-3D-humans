@@ -1,0 +1,1 @@
+Render someone disheartened, with a lowered face.#Render/VERB someone/PRON disheartened/VERB ,/PUNCT with/ADP a/DET lowered/VERB face/NOUN ./PUNCT#0.0#0.0

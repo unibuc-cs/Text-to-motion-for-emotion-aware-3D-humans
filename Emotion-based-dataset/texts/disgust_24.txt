@@ -1,0 +1,1 @@
+Illustrate a human showing clear signs of aversion.#Illustrate/VERB a/DET human/ADJ showing/VERB clear/ADJ signs/NOUN of/ADP aversion/NOUN ./PUNCT#0.0#0.0

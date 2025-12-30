@@ -1,0 +1,1 @@
+Illustrate a surprised character whose response is to lean forward.#Illustrate/VERB a/DET surprised/ADJ character/NOUN whose/DET response/NOUN is/AUX to/PART lean/VERB forward/ADV ./PUNCT#0.0#0.0

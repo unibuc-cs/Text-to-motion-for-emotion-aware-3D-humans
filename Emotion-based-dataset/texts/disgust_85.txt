@@ -1,0 +1,1 @@
+Develop an animation where a human is doubled over, sick.#Develop/VERB an/DET animation/NOUN where/SCONJ a/DET human/NOUN is/AUX doubled/VERB over/ADP ,/PUNCT sick/ADJ ./PUNCT#0.0#0.0

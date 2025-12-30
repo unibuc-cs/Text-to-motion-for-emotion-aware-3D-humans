@@ -1,0 +1,1 @@
+Animate a human being joyful, with arms lifted high.#Animate/VERB a/DET human/ADJ being/NOUN joyful/ADJ ,/PUNCT with/ADP arms/NOUN lifted/VERB high/ADV ./PUNCT#0.0#0.0

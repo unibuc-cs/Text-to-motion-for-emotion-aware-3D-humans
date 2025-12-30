@@ -1,0 +1,1 @@
+Animate a person who expresses their anger by putting their hands on their hips.#Animate/VERB a/DET person/NOUN who/PRON expresses/VERB their/PRON anger/NOUN by/ADP putting/VERB their/PRON hands/NOUN on/ADP their/PRON hips/NOUN ./PUNCT#0.0#0.0

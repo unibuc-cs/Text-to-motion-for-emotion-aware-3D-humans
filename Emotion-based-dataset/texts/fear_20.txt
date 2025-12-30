@@ -1,0 +1,1 @@
+Render a scene with a person exhibiting fear.#Render/VERB a/DET scene/NOUN with/ADP a/DET person/NOUN exhibiting/VERB fear/NOUN ./PUNCT#0.0#0.0

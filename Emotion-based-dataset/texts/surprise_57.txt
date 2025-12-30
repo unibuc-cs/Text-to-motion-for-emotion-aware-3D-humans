@@ -1,0 +1,1 @@
+Illustrate an animated character who shows surprise through a physical gesture.#Illustrate/VERB an/DET animated/VERB character/NOUN who/PRON shows/VERB surprise/NOUN through/ADP a/DET physical/ADJ gesture/NOUN ./PUNCT#0.0#0.0

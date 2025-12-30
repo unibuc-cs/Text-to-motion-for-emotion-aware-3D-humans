@@ -1,0 +1,1 @@
+Make an animation featuring a happy person.#Make/VERB an/DET animation/NOUN featuring/VERB a/DET happy/ADJ person/NOUN ./PUNCT#0.0#0.0

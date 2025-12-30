@@ -1,0 +1,1 @@
+Make an animation showing a person stomping their feet in irritation.#Make/VERB an/DET animation/NOUN showing/VERB a/DET person/NOUN stomping/VERB their/PRON feet/NOUN in/ADP irritation/NOUN ./PUNCT#0.0#0.0

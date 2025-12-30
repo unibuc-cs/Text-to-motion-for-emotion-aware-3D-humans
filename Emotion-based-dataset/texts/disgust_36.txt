@@ -1,0 +1,1 @@
+Present a character who blocks their nose to avoid a nasty smell.#Present/VERB a/DET character/NOUN who/PRON blocks/VERB their/PRON nose/NOUN to/PART avoid/VERB a/DET nasty/ADJ smell/NOUN ./PUNCT#0.0#0.0

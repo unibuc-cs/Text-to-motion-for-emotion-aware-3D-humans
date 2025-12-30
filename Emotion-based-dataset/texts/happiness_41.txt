@@ -1,0 +1,1 @@
+Make a character who shows they're happy by giving a thumbs up.#Make/VERB a/DET character/NOUN who/PRON shows/VERB they/PRON 're/AUX happy/ADJ by/ADP giving/VERB a/DET thumbs/NOUN up/ADP ./PUNCT#0.0#0.0

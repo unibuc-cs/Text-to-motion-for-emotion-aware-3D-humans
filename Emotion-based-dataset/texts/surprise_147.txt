@@ -1,0 +1,1 @@
+Animate a character who shows their shock with a sudden gesture.#Animate/VERB a/DET character/NOUN who/PRON shows/VERB their/PRON shock/NOUN with/ADP a/DET sudden/ADJ gesture/NOUN ./PUNCT#0.0#0.0

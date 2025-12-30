@@ -1,0 +1,1 @@
+Craft an animation with a terrified individual.#Craft/VERB an/DET animation/NOUN with/ADP a/DET terrified/ADJ individual/NOUN ./PUNCT#0.0#0.0

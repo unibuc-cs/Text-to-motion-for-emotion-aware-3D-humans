@@ -1,0 +1,1 @@
+Illustrate a human showing emotional and physical revulsion.#Illustrate/VERB a/DET human/ADJ showing/NOUN emotional/ADJ and/CCONJ physical/ADJ revulsion/NOUN ./PUNCT#0.0#0.0

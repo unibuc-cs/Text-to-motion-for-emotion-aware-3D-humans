@@ -1,0 +1,1 @@
+Animate a scene where a person is protecting themselves, obviously in fear.#Animate/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN is/AUX protecting/VERB themselves/PRON ,/PUNCT obviously/ADV in/ADP fear/NOUN ./PUNCT#0.0#0.0

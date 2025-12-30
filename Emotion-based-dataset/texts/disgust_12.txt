@@ -1,0 +1,1 @@
+Animate a character expressing disgust while clutching their nose.#Animate/VERB a/DET character/NOUN expressing/VERB disgust/NOUN while/SCONJ clutching/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

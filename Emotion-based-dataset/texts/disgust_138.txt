@@ -1,0 +1,1 @@
+Show a character blocking their nose and turning away with disgusted body language.#Show/VERB a/DET character/NOUN blocking/VERB their/PRON nose/NOUN and/CCONJ turning/VERB away/ADV with/ADP disgusted/ADJ body/NOUN language/NOUN ./PUNCT#0.0#0.0

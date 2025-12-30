@@ -1,0 +1,1 @@
+Develop an animated scene where a person uses their hands to show frustration.#Develop/VERB an/DET animated/VERB scene/NOUN where/SCONJ a/DET person/NOUN uses/VERB their/PRON hands/NOUN to/PART show/VERB frustration/NOUN ./PUNCT#0.0#0.0

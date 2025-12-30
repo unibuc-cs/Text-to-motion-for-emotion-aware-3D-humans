@@ -1,0 +1,1 @@
+Animate a figure slumping and covering their face in visceral disgust.#Animate/VERB a/DET figure/NOUN slumping/VERB and/CCONJ covering/VERB their/PRON face/NOUN in/ADP visceral/ADJ disgust/NOUN ./PUNCT#0.0#0.0

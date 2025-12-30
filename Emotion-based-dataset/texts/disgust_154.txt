@@ -1,0 +1,1 @@
+Build an animation where someone is throwing up, leaning over.#Build/VERB an/DET animation/NOUN where/SCONJ someone/PRON is/AUX throwing/VERB up/ADP ,/PUNCT leaning/VERB over/ADP ./PUNCT#0.0#0.0

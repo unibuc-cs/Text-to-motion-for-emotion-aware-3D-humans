@@ -1,0 +1,1 @@
+Depict a character with a sorrowful downward gaze.#Depict/VERB a/DET character/NOUN with/ADP a/DET sorrowful/ADJ downward/ADJ gaze/NOUN ./PUNCT#0.0#0.0

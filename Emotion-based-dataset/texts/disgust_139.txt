@@ -1,0 +1,1 @@
+Make me an animation where a character is displeased by the smell around them.#Make/VERB me/PRON an/DET animation/NOUN where/SCONJ a/DET character/NOUN is/AUX displeased/VERB by/ADP the/DET smell/NOUN around/ADP them/PRON ./PUNCT#0.0#0.0

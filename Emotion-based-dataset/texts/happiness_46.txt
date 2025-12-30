@@ -1,0 +1,1 @@
+Illustrate a human expressing happiness with a thumb up gesture.#Illustrate/VERB a/DET human/ADJ expressing/VERB happiness/NOUN with/ADP a/DET thumb/NOUN up/ADV gesture/NOUN ./PUNCT#0.0#0.0

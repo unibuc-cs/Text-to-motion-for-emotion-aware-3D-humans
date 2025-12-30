@@ -1,0 +1,1 @@
+Design a retching animation where the person is hunched over.#Design/VERB a/DET retching/VERB animation/NOUN where/SCONJ the/DET person/NOUN is/AUX hunched/VERB over/ADV ./PUNCT#0.0#0.0

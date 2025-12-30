@@ -1,0 +1,1 @@
+Produce an animation with a person who is afraid and shielding themselves from something.#Produce/VERB an/DET animation/NOUN with/ADP a/DET person/NOUN who/PRON is/AUX afraid/ADJ and/CCONJ shielding/VERB themselves/PRON from/ADP something/PRON ./PUNCT#0.0#0.0

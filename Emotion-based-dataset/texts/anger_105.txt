@@ -1,0 +1,1 @@
+Animate a person showing anger through an exaggerated hand motion.#Animate/VERB a/DET person/NOUN showing/VERB anger/NOUN through/ADP an/DET exaggerated/ADJ hand/NOUN motion/NOUN ./PUNCT#0.0#0.0

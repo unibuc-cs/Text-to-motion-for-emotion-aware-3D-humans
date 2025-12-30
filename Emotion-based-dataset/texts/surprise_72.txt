@@ -1,0 +1,1 @@
+Design an animation where someone is raising their hands in surprise.#Design/VERB an/DET animation/NOUN where/SCONJ someone/PRON is/AUX raising/VERB their/PRON hands/NOUN in/ADP surprise/NOUN ./PUNCT#0.0#0.0

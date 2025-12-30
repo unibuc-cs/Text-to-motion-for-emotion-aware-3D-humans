@@ -1,0 +1,1 @@
+Craft an animation with a person who is clearly afraid, trying to protect themselves.#Craft/VERB an/DET animation/NOUN with/ADP a/DET person/NOUN who/PRON is/AUX clearly/ADV afraid/ADJ ,/PUNCT trying/VERB to/PART protect/VERB themselves/PRON ./PUNCT#0.0#0.0

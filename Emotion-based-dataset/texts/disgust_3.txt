@@ -1,0 +1,1 @@
+Animate a person holding their nose with a disgusted expression.#Animate/VERB a/DET person/NOUN holding/VERB their/PRON nose/NOUN with/ADP a/DET disgusted/ADJ expression/NOUN ./PUNCT#0.0#0.0

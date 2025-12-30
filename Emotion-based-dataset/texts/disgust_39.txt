@@ -1,0 +1,1 @@
+Depict a person showing revulsion while covering their nostrils.#Depict/VERB a/DET person/NOUN showing/VERB revulsion/NOUN while/SCONJ covering/VERB their/PRON nostrils/NOUN ./PUNCT#0.0#0.0

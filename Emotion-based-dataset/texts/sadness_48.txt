@@ -1,0 +1,1 @@
+Draw someone with visible sorrow.#Draw/VERB someone/PRON with/ADP visible/ADJ sorrow/NOUN ./PUNCT#0.0#0.0

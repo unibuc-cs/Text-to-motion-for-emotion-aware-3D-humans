@@ -1,0 +1,1 @@
+Develop an animated character who is gesturing in an aggressive manner.#Develop/VERB an/DET animated/VERB character/NOUN who/PRON is/AUX gesturing/VERB in/ADP an/DET aggressive/ADJ manner/NOUN ./PUNCT#0.0#0.0

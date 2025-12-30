@@ -1,0 +1,1 @@
+Animate a surprised character who gasps and instinctively covers their mouth.#Animate/VERB a/DET surprised/ADJ character/NOUN who/PRON gasps/VERB and/CCONJ instinctively/ADV covers/VERB their/PRON mouth/NOUN ./PUNCT#0.0#0.0

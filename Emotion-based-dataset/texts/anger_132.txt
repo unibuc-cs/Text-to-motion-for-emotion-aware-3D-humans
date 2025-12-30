@@ -1,0 +1,1 @@
+Create a scene where a person is standing, visibly angry.#Create/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN is/AUX standing/VERB ,/PUNCT visibly/ADV angry/ADJ ./PUNCT#0.0#0.0

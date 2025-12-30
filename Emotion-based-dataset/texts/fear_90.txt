@@ -1,0 +1,1 @@
+Animate a character who instinctively jumps backward in fear.#Animate/VERB a/DET character/NOUN who/PRON instinctively/ADV jumps/VERB backward/ADV in/ADP fear/NOUN ./PUNCT#0.0#0.0

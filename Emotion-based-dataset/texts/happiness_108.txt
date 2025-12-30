@@ -1,0 +1,1 @@
+Depict a person in a clearly joyful emotional state by doing two peace signs.#Depict/VERB a/DET person/NOUN in/ADP a/DET clearly/ADV joyful/ADJ emotional/ADJ state/NOUN by/ADP doing/VERB two/NUM peace/NOUN signs/NOUN ./PUNCT#0.0#0.0

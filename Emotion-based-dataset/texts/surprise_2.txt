@@ -1,0 +1,1 @@
+Animate a character who appears to be surprised.#Animate/VERB a/DET character/NOUN who/PRON appears/VERB to/PART be/AUX surprised/ADJ ./PUNCT#0.0#0.0

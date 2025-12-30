@@ -1,0 +1,1 @@
+Animate a reaction of sheer distaste in a human.#Animate/VERB a/DET reaction/NOUN of/ADP sheer/ADJ distaste/NOUN in/ADP a/DET human/NOUN ./PUNCT#0.0#0.0

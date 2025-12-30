@@ -1,0 +1,1 @@
+Design a moment in animation where someone gestures in surprise.#Design/VERB a/DET moment/NOUN in/ADP animation/NOUN where/SCONJ someone/PRON gestures/NOUN in/ADP surprise/NOUN ./PUNCT#0.0#0.0

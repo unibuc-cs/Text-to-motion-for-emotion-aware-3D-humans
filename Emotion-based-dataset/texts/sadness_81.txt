@@ -1,0 +1,1 @@
+Animate a sorrowful gaze pointed toward the floor.#Animate/VERB a/DET sorrowful/ADJ gaze/NOUN pointed/VERB toward/ADP the/DET floor/NOUN ./PUNCT#0.0#0.0

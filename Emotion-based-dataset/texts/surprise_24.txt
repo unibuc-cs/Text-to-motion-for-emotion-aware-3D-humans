@@ -1,0 +1,1 @@
+Make an animation of someone pointing in surprise.#Make/VERB an/DET animation/NOUN of/ADP someone/PRON pointing/VERB in/ADP surprise/NOUN ./PUNCT#0.0#0.0

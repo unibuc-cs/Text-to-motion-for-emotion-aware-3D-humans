@@ -1,0 +1,1 @@
+Build an animation featuring a person who looks alarmed.#Build/VERB an/DET animation/NOUN featuring/VERB a/DET person/NOUN who/PRON looks/VERB alarmed/ADJ ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Make a human character react with utter disgust.#Make/VERB a/DET human/ADJ character/NOUN react/NOUN with/ADP utter/ADJ disgust/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate someone making a face of disgust and pinching their nose.#Animate/VERB someone/PRON making/VERB a/DET face/NOUN of/ADP disgust/NOUN and/CCONJ pinching/VERB their/PRON nose/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Design an animation of a happy individual giving a thumbs up.#Design/VERB an/DET animation/NOUN of/ADP a/DET happy/ADJ individual/NOUN giving/VERB a/DET thumbs/NOUN up/ADP ./PUNCT#0.0#0.0

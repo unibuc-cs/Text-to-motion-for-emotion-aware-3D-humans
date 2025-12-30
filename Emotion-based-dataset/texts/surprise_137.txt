@@ -1,0 +1,1 @@
+Create an animation where a character gasps and covers their mouth in reaction to surprise.#Create/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN gasps/VERB and/CCONJ covers/VERB their/PRON mouth/NOUN in/ADP reaction/NOUN to/PART surprise/VERB ./PUNCT#0.0#0.0

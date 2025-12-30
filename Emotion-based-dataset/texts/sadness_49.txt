@@ -1,0 +1,1 @@
+Show a person burdened by sadness.#Show/VERB a/DET person/NOUN burdened/VERB by/ADP sadness/NOUN ./PUNCT#0.0#0.0

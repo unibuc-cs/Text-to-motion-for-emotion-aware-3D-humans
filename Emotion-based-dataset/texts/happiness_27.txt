@@ -1,0 +1,1 @@
+Generate a scene where a human does a thumbs up to express being happy.#Generate/VERB a/DET scene/NOUN where/SCONJ a/DET human/NOUN does/VERB a/DET thumbs/NOUN up/ADP to/PART express/VERB being/AUX happy/ADJ ./PUNCT#0.0#0.0

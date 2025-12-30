@@ -1,0 +1,1 @@
+Animate a character who is making hostile or violent gestures.#Animate/VERB a/DET character/NOUN who/PRON is/AUX making/VERB hostile/ADJ or/CCONJ violent/ADJ gestures/NOUN ./PUNCT#0.0#0.0

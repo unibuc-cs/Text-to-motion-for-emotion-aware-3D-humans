@@ -1,0 +1,1 @@
+Design an animation where a person defends themselves, clearly terrified.#Design/VERB an/DET animation/NOUN where/SCONJ a/DET person/NOUN defends/VERB themselves/PRON ,/PUNCT clearly/ADV terrified/VERB ./PUNCT#0.0#0.0

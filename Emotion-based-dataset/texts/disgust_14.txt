@@ -1,0 +1,1 @@
+Make a human animation that shows disgust.#Make/VERB a/DET human/ADJ animation/NOUN that/PRON shows/VERB disgust/NOUN ./PUNCT#0.0#0.0

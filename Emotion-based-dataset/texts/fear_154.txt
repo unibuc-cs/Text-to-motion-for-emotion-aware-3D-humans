@@ -1,0 +1,1 @@
+Develop an animation where a character is covering their face in fear.#Develop/VERB an/DET animation/NOUN where/SCONJ a/DET character/NOUN is/AUX covering/VERB their/PRON face/NOUN in/ADP fear/NOUN ./PUNCT#0.0#0.0

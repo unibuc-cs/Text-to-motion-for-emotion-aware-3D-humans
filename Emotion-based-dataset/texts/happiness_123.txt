@@ -1,0 +1,1 @@
+Animate an arm-lift as a gesture of joy.#Animate/VERB an/DET arm/NOUN -/PUNCT lift/NOUN as/ADP a/DET gesture/NOUN of/ADP joy/NOUN ./PUNCT#0.0#0.0

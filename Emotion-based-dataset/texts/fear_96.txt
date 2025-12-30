@@ -1,0 +1,1 @@
+Animate a person with an expression of terror.#Animate/VERB a/DET person/NOUN with/ADP an/DET expression/NOUN of/ADP terror/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a scene with a surprised character who puts their hands up in awe.#Animate/VERB a/DET scene/NOUN with/ADP a/DET surprised/ADJ character/NOUN who/PRON puts/VERB their/PRON hands/NOUN up/ADP in/ADP awe/PROPN ./PUNCT#0.0#0.0

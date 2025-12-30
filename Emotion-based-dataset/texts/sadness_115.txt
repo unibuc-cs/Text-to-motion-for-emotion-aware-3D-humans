@@ -1,0 +1,1 @@
+Animate a downhearted character looking at their feet.#Animate/VERB a/DET downhearted/ADJ character/NOUN looking/VERB at/ADP their/PRON feet/NOUN ./PUNCT#0.0#0.0

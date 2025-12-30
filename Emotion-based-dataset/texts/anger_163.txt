@@ -1,0 +1,1 @@
+Develop an animated scene where a person makes a sharp gesture to communicate anger.#Develop/VERB an/DET animated/VERB scene/NOUN where/SCONJ a/DET person/NOUN makes/VERB a/DET sharp/ADJ gesture/NOUN to/PART communicate/VERB anger/NOUN ./PUNCT#0.0#0.0

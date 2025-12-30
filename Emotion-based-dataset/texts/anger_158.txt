@@ -1,0 +1,1 @@
+Animate a character who is expressing frustration with a noticeable gesture.#Animate/VERB a/DET character/NOUN who/PRON is/AUX expressing/VERB frustration/NOUN with/ADP a/DET noticeable/ADJ gesture/NOUN ./PUNCT#0.0#0.0

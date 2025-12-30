@@ -1,0 +1,1 @@
+Illustrate an animated character that is afraid.#Illustrate/VERB an/DET animated/VERB character/NOUN that/PRON is/AUX afraid/ADJ ./PUNCT#0.0#0.0

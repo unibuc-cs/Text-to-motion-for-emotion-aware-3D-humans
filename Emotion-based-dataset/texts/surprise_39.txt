@@ -1,0 +1,1 @@
+Create an animated scene with a person reacting by gasping in surprise.#Create/VERB an/DET animated/VERB scene/NOUN with/ADP a/DET person/NOUN reacting/VERB by/ADP gasping/VERB in/ADP surprise/NOUN ./PUNCT#0.0#0.0

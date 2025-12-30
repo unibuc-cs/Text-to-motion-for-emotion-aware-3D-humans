@@ -1,0 +1,1 @@
+Produce an animation where a human cries, covering their face as a gesture of distress.#Produce/VERB an/DET animation/NOUN where/SCONJ a/DET human/ADJ cries/NOUN ,/PUNCT covering/VERB their/PRON face/NOUN as/ADP a/DET gesture/NOUN of/ADP distress/NOUN ./PUNCT#0.0#0.0

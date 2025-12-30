@@ -1,0 +1,1 @@
+Portray a happy figure throwing arms upward.#Portray/VERB a/DET happy/ADJ figure/NOUN throwing/VERB arms/NOUN upward/ADV ./PUNCT#0.0#0.0

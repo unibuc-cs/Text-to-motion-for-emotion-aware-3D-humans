@@ -1,0 +1,1 @@
+Capture a human giving a thumbs-up in a joyful mood.#Capture/VERB a/DET human/ADJ giving/VERB a/DET thumbs/NOUN -/PUNCT up/NOUN in/ADP a/DET joyful/ADJ mood/NOUN ./PUNCT#0.0#0.0

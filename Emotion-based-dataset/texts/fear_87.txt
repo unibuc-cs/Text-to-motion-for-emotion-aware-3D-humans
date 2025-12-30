@@ -1,0 +1,1 @@
+Make an animation with a person who jumps back in shock.#Make/VERB an/DET animation/NOUN with/ADP a/DET person/NOUN who/PRON jumps/VERB back/ADV in/ADP shock/NOUN ./PUNCT#0.0#0.0

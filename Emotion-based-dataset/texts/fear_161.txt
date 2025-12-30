@@ -1,0 +1,1 @@
+Give me an animation of a person who is covering their face as response to something scary.#Give/VERB me/PRON an/DET animation/NOUN of/ADP a/DET person/NOUN who/PRON is/AUX covering/VERB their/PRON face/NOUN as/ADP response/NOUN to/ADP something/PRON scary/ADJ ./PUNCT#0.0#0.0

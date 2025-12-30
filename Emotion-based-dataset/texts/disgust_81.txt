@@ -1,0 +1,1 @@
+Animate a figure grimacing and covering their nose in response to odor.#Animate/VERB a/DET figure/NOUN grimacing/NOUN and/CCONJ covering/VERB their/PRON nose/NOUN in/ADP response/NOUN to/ADP odor/NOUN ./PUNCT#0.0#0.0

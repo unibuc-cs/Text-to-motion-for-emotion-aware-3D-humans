@@ -1,0 +1,1 @@
+Design an animation of a character whose surprise is shown through gasping and covering their mouth.#Design/VERB an/DET animation/NOUN of/ADP a/DET character/NOUN whose/DET surprise/NOUN is/AUX shown/VERB through/ADP gasping/VERB and/CCONJ covering/VERB their/PRON mouth/NOUN ./PUNCT#0.0#0.0

@@ -1,0 +1,1 @@
+Animate a person who is gleefully caught off guard by something.#Animate/VERB a/DET person/NOUN who/PRON is/AUX gleefully/ADV caught/VERB off/ADP guard/NOUN by/ADP something/PRON ./PUNCT#0.0#0.0

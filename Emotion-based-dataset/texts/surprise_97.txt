@@ -1,0 +1,1 @@
+Animate a surprised person who expresses their shock with a quick gesture.#Animate/VERB a/DET surprised/ADJ person/NOUN who/PRON expresses/VERB their/PRON shock/NOUN with/ADP a/DET quick/ADJ gesture/NOUN ./PUNCT#0.0#0.0

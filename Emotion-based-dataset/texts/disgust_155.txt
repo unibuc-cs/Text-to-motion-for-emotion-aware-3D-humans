@@ -1,0 +1,1 @@
+Animate a character bent forward in revulsion, vomiting.#Animate/VERB a/DET character/NOUN bent/VERB forward/ADV in/ADP revulsion/NOUN ,/PUNCT vomiting/VERB ./PUNCT#0.0#0.0

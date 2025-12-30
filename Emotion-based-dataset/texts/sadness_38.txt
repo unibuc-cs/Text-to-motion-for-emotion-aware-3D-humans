@@ -1,0 +1,1 @@
+Create a person who just lost hope.#Create/VERB a/DET person/NOUN who/PRON just/ADV lost/VERB hope/NOUN ./PUNCT#0.0#0.0

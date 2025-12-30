@@ -1,0 +1,1 @@
+Animate a character whose surprised reaction is expressed through a specific gesture.#Animate/VERB a/DET character/NOUN whose/DET surprised/ADJ reaction/NOUN is/AUX expressed/VERB through/ADP a/DET specific/ADJ gesture/NOUN ./PUNCT#0.0#0.0

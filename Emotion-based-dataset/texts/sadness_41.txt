@@ -1,0 +1,1 @@
+Show a devastated human.#Show/VERB a/DET devastated/ADJ human/NOUN ./PUNCT#0.0#0.0

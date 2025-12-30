@@ -1,0 +1,1 @@
+Show a character hunched forward with a disgusted expression.#Show/VERB a/DET character/NOUN hunched/VERB forward/ADV with/ADP a/DET disgusted/ADJ expression/NOUN ./PUNCT#0.0#0.0

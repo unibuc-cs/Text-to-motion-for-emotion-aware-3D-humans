@@ -1,0 +1,1 @@
+Produce an animation of a person making angry hand gestures.#Produce/VERB an/DET animation/NOUN of/ADP a/DET person/NOUN making/VERB angry/ADJ hand/NOUN gestures/NOUN ./PUNCT#0.0#0.0

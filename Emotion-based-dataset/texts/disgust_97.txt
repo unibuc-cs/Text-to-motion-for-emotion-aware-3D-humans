@@ -1,0 +1,1 @@
+Build a scene where a person is about to hurl, leaning forward.#Build/VERB a/DET scene/NOUN where/SCONJ a/DET person/NOUN is/AUX about/ADJ to/PART hurl/VERB ,/PUNCT leaning/VERB forward/ADV ./PUNCT#0.0#0.0

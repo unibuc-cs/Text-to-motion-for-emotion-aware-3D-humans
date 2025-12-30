@@ -1,0 +1,1 @@
+Make a human happily throw their arm up in the air repeatedly.#Make/VERB a/DET human/NOUN happily/ADV throw/VERB their/PRON arm/NOUN up/ADP in/ADP the/DET air/NOUN repeatedly/ADV ./PUNCT#0.0#0.0

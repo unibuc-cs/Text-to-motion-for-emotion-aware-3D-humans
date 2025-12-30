@@ -1,0 +1,1 @@
+Illustrate a character showing emotional vulnerability.#Illustrate/VERB a/DET character/NOUN showing/VERB emotional/ADJ vulnerability/NOUN ./PUNCT#0.0#0.0

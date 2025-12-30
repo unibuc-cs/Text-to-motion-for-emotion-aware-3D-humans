@@ -1,0 +1,1 @@
+Draw an animation with a character showing signs of fear.#Draw/VERB an/DET animation/NOUN with/ADP a/DET character/NOUN showing/VERB signs/NOUN of/ADP fear/NOUN ./PUNCT#0.0#0.0

@@ -1,6 +1,6 @@
 # Emotion-Conditioned Text-to-Motion for 3D Human Movement
 
-This repository accompanies the paper **“A Variational Text-to-Motion Model for Emotion-Aware 3D Human Movement”**.  
+This repository accompanies the paper **“A Variational Text-to-Motion Model for Emotion-Aware 3D Human Movement”** presented at ICAART 2026.
 It contains the full pipeline for generating 3D human motion from short emotion-laden text prompts, using monocular videos recorded with volunteer actors.
 
 The pipeline has three main stages:
